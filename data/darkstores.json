@@ -1,0 +1,6120 @@
+[
+ {
+  "id": "fresh_grc_msk_vladimirskaya",
+  "region": "Москва и МО",
+  "name": "3-я Владимирская 4",
+  "system": "FRESH_GRC_МСК_ВЛАДИМИРСКАЯ",
+  "address": "111123, г Москва, вн.тер.г. муниципальный округ Перово, ул 3-я Владимирская, д. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_vladimirskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_parkovaya",
+  "region": "Москва и МО",
+  "name": "3-я Парковая, 24",
+  "system": "FRESH_GRC_МСК_ПАРКОВАЯ",
+  "address": "105043, Москва, Парковая 3-я ул д.24",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_parkovaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_severnoe_izmaylovo",
+  "region": "Москва и МО",
+  "name": "3-я Парковая, 57",
+  "system": "FRESH_GRC_МСК_СЕВЕРНОЕ_ИЗМАЙЛОВО",
+  "address": "105425, Москва, 3-я Парковая ул., д. 57",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_severnoe_izmaylovo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_kotelniki_pokrovskiy",
+  "region": "Москва и МО",
+  "name": "2-й Покровский проезд",
+  "system": "FRESH_GRC_МСК_КОТЕЛЬНИКИ_ПОКРОВСКИЙ",
+  "address": "140056, Московская обл., г. Котельники, 2-й Покровский проезд, стр. 11",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_kotelniki_pokrovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pugachevskaya",
+  "region": "Москва и МО",
+  "name": "2-я Пугачевская",
+  "system": "FRESH_GRC_МСК_ПУГАЧЕВСКАЯ",
+  "address": "107553, г Москва, вн.тер.г. муниципальный округ Преображенское, ул 2-я Пугачевская, д. 3 к. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pugachevskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_radiatorskaya",
+  "region": "Москва и МО",
+  "name": "3-я Радиаторская",
+  "system": "FRESH_GRC_МСК_РАДИАТОРСКАЯ",
+  "address": "1125171 г. Москва, 3-я Радиаторская улица д.11",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_radiatorskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_radialnaya",
+  "region": "Москва и МО",
+  "name": "6-я Радиальная",
+  "system": "FRESH_GRC_МСК_РАДИАЛЬНАЯ",
+  "address": "115404, г. Москва, 6-я Радиальная ул. д.3к5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_radialnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_aviatorov",
+  "region": "Москва и МО",
+  "name": "Авиаторов",
+  "system": "FRESH_GRC_МСК_АВИАТОРОВ",
+  "address": "119619, Москва, улица Авиаторов д. 7 к.2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_aviatorov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_avtograd",
+  "region": "Москва и МО",
+  "name": "Автоград",
+  "system": "FRESH_MAX_МСК_АВТОГРАД",
+  "address": "Москва, Варшавское шоссе, 170Г",
+  "status": "gone",
+  "source": "в Ozon Job не найден; адрес из старых справочников",
+  "how": "",
+  "schemes": [],
+  "show": false
+ },
+ {
+  "id": "fresh_grc_msk_venevskaya",
+  "region": "Москва и МО",
+  "name": "Адмирала Лазарева 2",
+  "system": "FRESH_GRC_МСК_ВЕНЕВСКАЯ",
+  "address": "117042, г Москва, вн.тер.г. муниципальный округ Южное Бутово, ул Адмирала Лазарева, д. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_venevskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_admirala_rudneva",
+  "region": "Москва и МО",
+  "name": "Адмирала Руднева",
+  "system": "FRESH_GRC_МСК_АДМИРАЛА_РУДНЕВА",
+  "address": "117041, Москва, Адмирала Руднева ул., д.4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_admirala_rudneva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_akademika_anohina",
+  "region": "Москва и МО",
+  "name": "Академика Анохина",
+  "system": "FRESH_GRC_МСК_АКАДЕМИКА_АНОХИНА",
+  "address": "119602, г Москва, вн.тер.г. муниципальный округ Тропарево-Никулино, ул Академика Анохина, д. 42 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_akademika_anohina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_akademika_vargi",
+  "region": "Москва и МО",
+  "name": "Академика Варги",
+  "system": "FRESH_GRC_МСК_АКАДЕМИКА_ВАРГИ",
+  "address": "117133, г. Москва, Академика Варги 40А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_akademika_vargi.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_akademika_millionschikova",
+  "region": "Москва и МО",
+  "name": "Академика Миллионщикова",
+  "system": "FRESH_GRC_МСК_АКАДЕМИКА_МИЛЛИОНЩИКОВА",
+  "address": "115487, Москва, ул. Академика Миллионщикова, д.7 к 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_akademika_millionschikova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_altayskaya",
+  "region": "Москва и МО",
+  "name": "Алтайская",
+  "system": "FRESH_GRC_МСК_АЛТАЙСКАЯ",
+  "address": "107065, г. Москва, Алтайская улица 19с1А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_altayskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_altufevo",
+  "region": "Москва и МО",
+  "name": "Алтуфьево",
+  "system": "FRESH_MAX_МСК_АЛТУФЬЕВО",
+  "address": "Москва, Алтуфьевское шоссе, 79Ас25",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_prospekt_andropova",
+  "region": "Москва и МО",
+  "name": "Андропова",
+  "system": "FRESH_GRC_МСК_ПРОСПЕКТ_АНДРОПОВА",
+  "address": "115432, г Москва, вн.тер.г. муниципальный округ Даниловский, пр-кт Андропова, д. 8",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_prospekt_andropova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_arhitektora_vlasova",
+  "region": "Москва и МО",
+  "name": "Архитектора Власова 20А",
+  "system": "FRESH_GRC_МСК_АРХИТЕКТОРА_ВЛАСОВА",
+  "address": "117393, г Москва, вн.тер.г. муниципальный округ Обручевский, ул Архитектора Власова, д. 20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_arhitektora_vlasova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_atrium",
+  "region": "Москва и МО",
+  "name": "Атриум",
+  "system": "FRESH_MAX_МСК_АТРИУМ",
+  "address": "Москва, улица Земляной Вал, 33",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "ТРЦ «Атриум»",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_bazovskaya",
+  "region": "Москва и МО",
+  "name": "Базовская",
+  "system": "FRESH_GRC_МСК_БАЗОВСКАЯ",
+  "address": "125635, г Москва, вн.тер.г. муниципальный округ Западное Дегунино, ул Базовская, д. 19",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_bazovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_balaklavskiy",
+  "region": "Москва и МО",
+  "name": "Балаклавский",
+  "system": "FRESH_GRC_МСК_БАЛАКЛАВСКИЙ",
+  "address": "117461, г Москва, вн.тер.г. муниципальный округ Зюзино, пр-кт Балаклавский, д. 52 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_balaklavskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zheleznodorozhnyy_dachnaya",
+  "region": "Москва и МО",
+  "name": "Балашиха — Железнодорожный",
+  "system": "FRESH_GRC_МСК_ЖЕЛЕЗНОДОРОЖНЫЙ_ДАЧНАЯ",
+  "address": "143987, Московская область, г.о. Балашиха, г Балашиха, мкр. Железнодорожный, ул Дачная, стр. 26 к. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zheleznodorozhnyy_dachnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_balashiha_zvezdnaya",
+  "region": "Москва и МО",
+  "name": "Балашиха — Звёздная",
+  "system": "FRESH_GRC_МСК_БАЛАШИХА_ЗВЕЗДНАЯ",
+  "address": "143909, МО, г. Балашиха, ул Звёздная, д. 7Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_balashiha_zvezdnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_balashiha_nosovihinskoe_shosse",
+  "region": "Москва и МО",
+  "name": "Балашиха — Носовихинское шоссе",
+  "system": "FRESH_GRC_МСК_БАЛАШИХА_НОСОВИХИНСКОЕ_ШОССЕ",
+  "address": "143914, МО, г. Балашиха, Носовихинское шоссе, 4с16",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_balashiha_nosovihinskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zheleznodorozhnyy_oktyabrskaya",
+  "region": "Москва и МО",
+  "name": "Балашиха — Октябрьская",
+  "system": "FRESH_GRC_МСК_ЖЕЛЕЗНОДОРОЖНЫЙ_ОКТЯБРЬСКАЯ",
+  "address": "143980, МО, г. Балашиха, мкр. Железнодорожный, ул. Октябрьская 33",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zheleznodorozhnyy_oktyabrskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_balashiha_entuziastov",
+  "region": "Москва и МО",
+  "name": "Балашиха — Энтузиастов",
+  "system": "FRESH_GRC_МСК_БАЛАШИХА_ЭНТУЗИАСТОВ",
+  "address": "143907, МО, г. Балашиха, ш. Энтузиастов 39А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_balashiha_entuziastov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_baumanskaya",
+  "region": "Москва и МО",
+  "name": "Бауманская",
+  "system": "FRESH_GRC_МСК_БАУМАНСКАЯ",
+  "address": "105005, г. Москва, ул. Бауманская, д. 6с2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_baumanskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_berezovaya_alleya",
+  "region": "Москва и МО",
+  "name": "Березовая Аллея 4А",
+  "system": "FRESH_GRC_МСК_БЕРЕЗОВАЯ_АЛЛЕЯ",
+  "address": "127273, г Москва, вн.тер.г. муниципальный округ Отрадное, аллея Берёзовая, д. 4А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_berezovaya_alleya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_bernikov",
+  "region": "Москва и МО",
+  "name": "Берников 2",
+  "system": "FRESH_GRC_МСК_БЕРНИКОВ",
+  "address": "109240, г Москва, вн.тер.г. муниципальный округ Таганский, пер Берников, д. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_bernikov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_bolshaya_filevskaya",
+  "region": "Москва и МО",
+  "name": "Большая Филёвская",
+  "system": "FRESH_GRC_МСК_БОЛЬШАЯ_ФИЛЕВСКАЯ",
+  "address": "121087, г. Москва, ул. Большая Филёвская, д.3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_bolshaya_filevskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_matveevskiy",
+  "region": "Москва и МО",
+  "name": "Большая Очаковская 6с1",
+  "system": "FRESH_GRC_МСК_МАТВЕЕВСКИЙ",
+  "address": "119361, Москва, вн.тер.г. муниципальный округ Очаково-Матвеевское, ул Большая Очаковская, дом 6, строение 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_matveevskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_spasskaya",
+  "region": "Москва и МО",
+  "name": "Большая Спасская 8с1А",
+  "system": "FRESH_GRC_МСК_СПАССКАЯ",
+  "address": "129090, г Москва, вн.тер.г. муниципальный округ Красносельский, ул Большая Спасская, д. 8 стр. 1А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_spasskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_borisovskie_prudy",
+  "region": "Москва и МО",
+  "name": "Борисовские Пруды",
+  "system": "FRESH_GRC_МСК_БОРИСОВСКИЕ_ПРУДЫ",
+  "address": "1546112, г. Москва, улица Борисовские Пруды, д. 26",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_borisovskie_prudy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_govorovo",
+  "region": "Москва и МО",
+  "name": "Боровское шоссе — 6",
+  "system": "FRESH_GRC_МСК_ГОВОРОВО",
+  "address": "119618, г Москва, вн.тер.г. муниципальный округ Солнцево, ш. Боровское, д. 6 к. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_govorovo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_borovskoe_shosse",
+  "region": "Москва и МО",
+  "name": "Боровское шоссе — 43",
+  "system": "FRESH_GRC_МСК_БОРОВСКОЕ_ШОССЕ",
+  "address": "119634, Москва, Боровское шоссе, д. 43к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_borovskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_porechnaya",
+  "region": "Москва и МО",
+  "name": "Братиславская, 30",
+  "system": "FRESH_GRC_МСК_ПОРЕЧНАЯ",
+  "address": "109469, г Москва, вн.тер.г. муниципальный округ Марьино, ул Братиславская, д. 30",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_porechnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_bykovo",
+  "region": "Москва и МО",
+  "name": "Быково",
+  "system": "FRESH_MAX_МСК_БЫКОВО",
+  "address": "Московская обл., Раменский г.о., пгт Быково, Аэропортовская улица, 14кБ",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "Логопарк Быково",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_bratislavskaya",
+  "region": "Москва и МО",
+  "name": "Братиславская, 20",
+  "system": "FRESH_GRC_МСК_БРАТИСЛАВСКАЯ",
+  "address": "109451, г. Москва, Братиславская, 20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_bratislavskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_bratev_vesninyh",
+  "region": "Москва и МО",
+  "name": "Братьев Весниных 2",
+  "system": "FRESH_GRC_МСК_БРАТЬЕВ_ВЕСНИНЫХ",
+  "address": "115432, г Москва, вн.тер.г. муниципальный округ Даниловский, б-р Братьев Весниных, д. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_bratev_vesninyh.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_botyleva",
+  "region": "Москва и МО",
+  "name": "Василия Ботылева (Рублёво)",
+  "system": "FRESH_GRC_МСК_БОТЫЛЕВА",
+  "address": "121500, г Москва, вн.тер.г. муниципальный округ Кунцево, ул Василия Ботылёва, д. 14А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_botyleva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_vvedenskogo",
+  "region": "Москва и МО",
+  "name": "Введенского",
+  "system": "FRESH_GRC_МСК_ВВЕДЕНСКОГО",
+  "address": "117342,г. Москва, ул. Введенского, д. 3, корп. 6",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_vvedenskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_leto",
+  "region": "Москва и МО",
+  "name": "Вернадского проспект, 29",
+  "system": "FRESH_GRC_МСК_ЛЕТО",
+  "address": "119331, г. Москва, Проспект Вернадского, д. 29",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_leto.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_vernadskogo",
+  "region": "Москва и МО",
+  "name": "Вернадского проспект, 105",
+  "system": "FRESH_GRC_МСК_ВЕРНАДСКОГО",
+  "address": "119526, г. Москва, проспект Вернадского, д.105",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_vernadskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_vidnoe_raduzhnaya",
+  "region": "Москва и МО",
+  "name": "Видное",
+  "system": "FRESH_GRC_МСК_ВИДНОЕ_РАДУЖНАЯ",
+  "address": "142700, МО , г. Видное, Радужная улица ЗУ 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_vidnoe_raduzhnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_vidnoe_lemeshko",
+  "region": "Москва и МО",
+  "name": "Видное — Лемешко",
+  "system": "FRESH_GRC_МСК_ВИДНОЕ_ЛЕМЕШКО",
+  "address": "142700, Московская область, г.о. Ленинский, г Видное, ул Лемешко, д. 10",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_vidnoe_lemeshko.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_yudinskiy_prud",
+  "region": "Москва и МО",
+  "name": "ВНИИСОК — Рябиновая",
+  "system": "FRESH_GRC_МСК_ЮДИНСКИЙ_ПРУД",
+  "address": "143072, Московская область, г.о. Одинцовский, пгт. ВНИИССОК, ул Рябиновая, д. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_yudinskiy_prud.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_volgogradskiy_prospekt",
+  "region": "Москва и МО",
+  "name": "Волгоградский проспект, 1",
+  "system": "FRESH_GRC_МСК_ВОЛГОГРАДСКИЙ_ПРОСПЕКТ",
+  "address": "109316, г. Москва, Волгоградский проспект д. 1 с 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_volgogradskiy_prospekt.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_kuzminki",
+  "region": "Москва и МО",
+  "name": "Волгоградский, 133",
+  "system": "FRESH_GRC_МСК_КУЗЬМИНКИ",
+  "address": "109443, г Москва, вн.тер.г. муниципальный округ Кузьминки, пр-кт Волгоградский, д. 133 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_kuzminki.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_vyborgskaya",
+  "region": "Москва и МО",
+  "name": "Выборгская",
+  "system": "FRESH_GRC_МСК_ВЫБОРГСКАЯ",
+  "address": "125212, г. Москва, Выборгская ул, д16 к2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_vyborgskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_generala_belova",
+  "region": "Москва и МО",
+  "name": "Генерала Белова",
+  "system": "FRESH_GRC_МСК_ГЕНЕРАЛА_БЕЛОВА",
+  "address": "115563, г. Москва, ул. Генерала Белова, д. 8",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_generala_belova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_odintsovo_glazynino",
+  "region": "Москва и МО",
+  "name": "Глазынино",
+  "system": "FRESH_GRC_МСК_ОДИНЦОВО_ГЛАЗЫНИНО",
+  "address": "143006, Московская область, г.о. Одинцовский, д Глазынино, стр. 121",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_odintsovo_glazynino.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_grayvoronovskaya",
+  "region": "Москва и МО",
+  "name": "Грайвороновская",
+  "system": "FRESH_GRC_МСК_ГРАЙВОРОНОВСКАЯ",
+  "address": "109518, г Москва, вн.тер.г. муниципальный округ Текстильщики, ул Грайвороновская, д. 25 стр. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_grayvoronovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pechatniki",
+  "region": "Москва и МО",
+  "name": "Гурьянова",
+  "system": "FRESH_GRC_МСК_ПЕЧАТНИКИ",
+  "address": "109388, г Москва, вн.тер.г. муниципальный округ Печатники, ул Гурьянова, д. 79 стр. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pechatniki.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_dekabristov",
+  "region": "Москва и МО",
+  "name": "Декабристов",
+  "system": "FRESH_GRC_МСК_ДЕКАБРИСТОВ",
+  "address": "127490, г Москва, вн.тер.г. муниципальный округ Отрадное, ул Декабристов, д. 43 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_dekabristov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_dmitrovskiy",
+  "region": "Москва и МО",
+  "name": "Дмитровский",
+  "system": "FRESH_MAX_МСК_ДМИТРОВСКИЙ",
+  "address": "Москва, Дмитровское шоссе, 131к1",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_akademika_hristianovicha",
+  "region": "Москва и МО",
+  "name": "Долгопрудная",
+  "system": "FRESH_GRC_МСК_АКАДЕМИКА_ХРИСТИАНОВИЧА",
+  "address": "127204, г Москва, вн.тер.г. муниципальный округ Северный, ал. Долгопрудная, д. 14 к. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_akademika_hristianovicha.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_lomonosovskiy_prospekt",
+  "region": "Москва и МО",
+  "name": "Дружбы",
+  "system": "FRESH_GRC_МСК_ЛОМОНОСОВСКИЙ_ПРОСПЕКТ",
+  "address": "119330, г Москва, вн.тер.г. муниципальный округ Раменки, ул Дружбы, д. 10А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lomonosovskiy_prospekt.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_dubninskaya",
+  "region": "Москва и МО",
+  "name": "Дубнинская",
+  "system": "FRESH_GRC_МСК_ДУБНИНСКАЯ",
+  "address": "127540, г. Москва, Дубнинская ул., 4 к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_dubninskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_dolgoprudnyy_lihachevskiy",
+  "region": "Москва и МО",
+  "name": "Долгопрудный — Лихачёвский",
+  "system": "FRESH_GRC_МСК_ДОЛГОПРУДНЫЙ_ЛИХАЧЕВСКИЙ",
+  "address": "141700, Московская область, г. Долгопрудный, пр-кт Лихачёвский, д. 68",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_dolgoprudnyy_lihachevskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_evropolis",
+  "region": "Москва и МО",
+  "name": "Европолис",
+  "system": "FRESH_MAX_МСК_ЕВРОПОЛИС",
+  "address": "Москва, проспект Мира, 211",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "ТРЦ «Европолис»",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_eniseyskaya",
+  "region": "Москва и МО",
+  "name": "Енисейская 5к2",
+  "system": "FRESH_GRC_МСК_ЕНИСЕЙСКАЯ",
+  "address": "129344, г Москва, вн.тер.г. муниципальный округ Бабушкинский, ул Енисейская, д. 5 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_eniseyskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_eremino",
+  "region": "Москва и МО",
+  "name": "Еремино",
+  "system": "FRESH_MAX_МСК_ЕРЕМИНО",
+  "address": "Московская обл., г.о. Мытищи, д. Еремино, ул. Дмитровская, 49А/3",
+  "status": "ok",
+  "source": "документ Ozon «Баллы на Дарксторах Фреш», п. 1.6",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_eseninskiy_bulvar",
+  "region": "Москва и МО",
+  "name": "Есенинский бульвар",
+  "system": "FRESH_GRC_МСК_ЕСЕНИНСКИЙ_БУЛЬВАР",
+  "address": "109378, г. Москва, Есенинский бульвар, 1/26к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_eseninskiy_bulvar.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_aprelevka_zhasminovaya",
+  "region": "Москва и МО",
+  "name": "Жасминовая",
+  "system": "FRESH_GRC_МСК_АПРЕЛЕВКА_ЖАСМИНОВАЯ",
+  "address": "Московская область, г.о. Наро-Фоминский, г Апрелевка, ул Жасминовая, зд. 11",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_aprelevka_zhasminovaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zhukovskiy_latskova",
+  "region": "Москва и МО",
+  "name": "Жуковский",
+  "system": "FRESH_GRC_МСК_ЖУКОВСКИЙ_ЛАЦКОВА",
+  "address": "140188, МО, г. Жуковский, ул. Лацкова д. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zhukovskiy_latskova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zhulebinskiy_bulvar",
+  "region": "Москва и МО",
+  "name": "Жулебинский бульвар 15",
+  "system": "FRESH_GRC_МСК_ЖУЛЕБИНСКИЙ_БУЛЬВАР",
+  "address": "109153, г Москва, вн.тер.г. муниципальный округ Выхино-Жулебино, б-р Жулебинский, д. 15",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zhulebinskiy_bulvar.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_zelenograd",
+  "region": "Москва и МО",
+  "name": "Зеленоград",
+  "system": "FRESH_MAX_МСК_ЗЕЛЕНОГРАД",
+  "address": "Москва, Зеленоград, корпус 1550",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "ТЦ «Грин»",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zelenyy",
+  "region": "Москва и МО",
+  "name": "Зелёный",
+  "system": "FRESH_GRC_МСК_ЗЕЛЕНЫЙ",
+  "address": "111141, г Москва, пр-кт Зелёный, д. 10 Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zelenyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_znamenskie_sadki",
+  "region": "Москва и МО",
+  "name": "Знаменские Садки",
+  "system": "FRESH_GRC_МСК_ЗНАМЕНСКИЕ_САДКИ",
+  "address": "117628, Москва, ул. Знаменские Садки 5Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_znamenskie_sadki.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_kosmodemyanskih",
+  "region": "Москва и МО",
+  "name": "Зои и Александра Космодемьянских 42",
+  "system": "FRESH_GRC_МСК_КОСМОДЕМЬЯНСКИХ",
+  "address": "125130, г Москва, вн.тер.г. муниципальный округ Коптево, ул Зои и Александра Космодемьянских, д. 42",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_kosmodemyanskih.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zolotorozhskiy",
+  "region": "Москва и МО",
+  "name": "Золоторожский Вал",
+  "system": "FRESH_GRC_МСК_ЗОЛОТОРОЖСКИЙ",
+  "address": "111033, Москва, улица Золоторожский Вал, д. 11 с22",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zolotorozhskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ivana_susanina",
+  "region": "Москва и МО",
+  "name": "Ивана Сусанина 2с7",
+  "system": "FRESH_GRC_МСК_ИВАНА_СУСАНИНА",
+  "address": "127486, г Москва, вн.тер.г. муниципальный округ Западное Дегунино, ул Ивана Сусанина, д. 2 стр. 7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ivana_susanina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ivanovskoe",
+  "region": "Москва и МО",
+  "name": "Ивановское",
+  "system": "FRESH_GRC_МСК_ИВАНОВСКОЕ",
+  "address": "111531, г Москва, вн.тер.г. муниципальный округ Ивановское, ш Энтузиастов, д. 98Б стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ivanovskoe.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_izmaylovskoe_shosse",
+  "region": "Москва и МО",
+  "name": "Измайловское шоссе",
+  "system": "FRESH_GRC_МСК_ИЗМАЙЛОВСКОЕ_ШОССЕ",
+  "address": "105118, Москва, Измайловское шоссе, 6",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_izmaylovskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_ngr_msk_kashirskiy_dvor",
+  "region": "Москва и МО",
+  "name": "Каширский",
+  "system": "FRESH_NGR_МСК_КАШИРСКИЙ_ДВОР",
+  "address": "115230, г. Москва, Каширское шоссе, д. 19, корпус 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_ngr_msk_kashirskiy_dvor.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_shipilovskiy",
+  "region": "Москва и МО",
+  "name": "Каширское ш 144к2",
+  "system": "FRESH_GRC_МСК_ШИПИЛОВСКИЙ",
+  "address": "115561, г Москва, вн.тер.г. муниципальный округ Орехово-Борисово Южное, ш Каширское, д. 144 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_shipilovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_kvesisskaya",
+  "region": "Москва и МО",
+  "name": "Квесисская",
+  "system": "FRESH_GRC_МСК_КВЕСИССКАЯ",
+  "address": "127220, Москва, 1-я Квесисская улица, 18",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_kvesisskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ketcherskaya",
+  "region": "Москва и МО",
+  "name": "Кетчерская",
+  "system": "FRESH_GRC_МСК_КЕТЧЕРСКАЯ",
+  "address": "111402, г. Москва, ул. Кетчерская, д.4а",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ketcherskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_kirovogradskaya",
+  "region": "Москва и МО",
+  "name": "Кировоградская",
+  "system": "FRESH_GRC_МСК_КИРОВОГРАДСКАЯ",
+  "address": "117587, г. Москва, Кировоградская д9 к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_kirovogradskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_kirpichnye_vyemki",
+  "region": "Москва и МО",
+  "name": "Кирпичные выемки",
+  "system": "FRESH_GRC_МСК_КИРПИЧНЫЕ_ВЫЕМКИ",
+  "address": "117405 г.Москва, ул. Кирпичные выемки, д.2, корп. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_kirpichnye_vyemki.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_kozhevnicheskaya",
+  "region": "Москва и МО",
+  "name": "Кожевническая",
+  "system": "FRESH_GRC_МСК_КОЖЕВНИЧЕСКАЯ",
+  "address": "115114, г. Москва, ул. Кожевническая, д. 1Б с 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_kozhevnicheskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_bachurinskaya",
+  "region": "Москва и МО",
+  "name": "Коммунарка",
+  "system": "FRESH_GRC_МСК_БАЧУРИНСКАЯ",
+  "address": "108814, г Москва, вн.тер.г. муниципальный округ Коммунарка, п Коммунарка, ул Бачуринская, д. 17",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_bachurinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_konenkova",
+  "region": "Москва и МО",
+  "name": "Конёнкова",
+  "system": "FRESH_GRC_МСК_КОНЁНКОВА",
+  "address": "127560, г Москва, вн.тер.г. муниципальный округ Бибирево, ул Конёнкова, д. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_konenkova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_konkovo",
+  "region": "Москва и МО",
+  "name": "Коньково",
+  "system": "FRESH_MAX_МСК_КОНЬКОВО",
+  "address": "Москва, Профсоюзная улица, 136к1",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_konfetti",
+  "region": "Москва и МО",
+  "name": "Конфетти",
+  "system": "FRESH_GRC_МСК_КОНФЕТТИ",
+  "address": "115533, г Москва, вн.тер.г. муниципальный округ Нагатино-Садовники, наб Нагатинская, д. 16",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_konfetti.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_korneychuka",
+  "region": "Москва и МО",
+  "name": "Корнейчука",
+  "system": "FRESH_GRC_МСК_КОРНЕЙЧУКА",
+  "address": "127543, г Москва, вн.тер.г. муниципальный округ Бибирево, ул Корнейчука, д. 53",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_korneychuka.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_korolev_kaliningradskaya",
+  "region": "Москва и МО",
+  "name": "Королёв — Калининградская",
+  "system": "FRESH_GRC_МСК_КОРОЛЕВ_КАЛИНИНГРАДСКАЯ",
+  "address": "141080, Московская область, г.о. Королёв, г Королёв, ул Калининградская, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_korolev_kaliningradskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_korolev_kosmonavtov",
+  "region": "Москва и МО",
+  "name": "Королёв — Космонавтов",
+  "system": "FRESH_GRC_МСК_КОРОЛЕВ_КОСМОНАВТОВ",
+  "address": "141075, МО, г. Королёв, пр-кт Космонавтов, д. 7Г",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_korolev_kosmonavtov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_korolev_moskovskaya",
+  "region": "Москва и МО",
+  "name": "Королёв — Московская",
+  "system": "FRESH_GRC_МСК_КОРОЛЕВ_МОСКОВСКАЯ",
+  "address": "141069, Московская область, микрорайон Болшево, Московская улица, д. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_korolev_moskovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_korolev_frunze",
+  "region": "Москва и МО",
+  "name": "Королёв — Фрунзе",
+  "system": "FRESH_GRC_МСК_КОРОЛЕВ_ФРУНЗЕ",
+  "address": "141070, МО, г. Королев, ул. Фрунзе д. 2Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_korolev_frunze.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_kosinskaya",
+  "region": "Москва и МО",
+  "name": "Косинская",
+  "system": "FRESH_MAX_МСК_КОСИНСКАЯ",
+  "address": "Москва, Косинская улица, 7",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_volkov_pereulok",
+  "region": "Москва и МО",
+  "name": "Красная Пресня",
+  "system": "FRESH_GRC_МСК_ВОЛКОВ_ПЕРЕУЛОК",
+  "address": "123242, г Москва, вн.тер.г. муниципальный округ Пресненский, ул Красная Пресня, д. 12",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_volkov_pereulok.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnodarskiy_proezd",
+  "region": "Москва и МО",
+  "name": "Краснодарский проезд",
+  "system": "FRESH_GRC_МСК_КРАСНОДАРСКИЙ_ПРОЕЗД",
+  "address": "109559, г Москва, вн.тер.г. муниципальный округ Люблино, проезд Краснодарский, д. 12",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnodarskiy_proezd.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnogorsk_anninskaya",
+  "region": "Москва и МО",
+  "name": "Красногорск — Аннинская",
+  "system": "FRESH_GRC_МСК_КРАСНОГОРСК_АННИНСКАЯ",
+  "address": "143409, МО, Красногорск, Аннинская улица д. 7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnogorsk_anninskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnogorsk_trifonova",
+  "region": "Москва и МО",
+  "name": "Красногорск — Вилора Трифонова",
+  "system": "FRESH_GRC_МСК_КРАСНОГОРСК_ТРИФОНОВА",
+  "address": "143409, Московская область, г.о. Красногорск, г Красногорск, ул Вилора Трифонова, д. 1А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnogorsk_trifonova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnogorsk_klenovaya",
+  "region": "Москва и МО",
+  "name": "Красногорск — Отрадное",
+  "system": "FRESH_GRC_МСК_КРАСНОГОРСК_КЛЕНОВАЯ",
+  "address": "143442, Московская область, г.о. Красногорск, пгт. Отрадное, ул Лесная, д. 17А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnogorsk_klenovaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnogorsk_pionerskaya",
+  "region": "Москва и МО",
+  "name": "Красногорск — Пионерская",
+  "system": "FRESH_GRC_МСК_КРАСНОГОРСК_ПИОНЕРСКАЯ",
+  "address": "143402, МО, г. Красногорск, ул. Пионерская 19",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnogorsk_pionerskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnogorskiy_bulvar",
+  "region": "Москва и МО",
+  "name": "Красногорский бульвар",
+  "system": "FRESH_GRC_МСК_КРАСНОГОРСКИЙ_БУЛЬВАР",
+  "address": "143401, МО, г. Красногорск, Красногорский бульвар 4 к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnogorskiy_bulvar.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnyy_kazanets",
+  "region": "Москва и МО",
+  "name": "Красный казанец",
+  "system": "FRESH_GRC_МСК_КРАСНЫЙ_КАЗАНЕЦ",
+  "address": "111395, г. Москва, Красный казанец ул. 1Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnyy_kazanets.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_prospekt_bagrationa",
+  "region": "Москва и МО",
+  "name": "Красных зорь 19",
+  "system": "FRESH_GRC_МСК_ПРОСПЕКТ_БАГРАТИОНА",
+  "address": "121374, г Москва, вн.тер.г. муниципальный округ Можайский, ул Красных Зорь, д. 19",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_prospekt_bagrationa.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_krymskaya",
+  "region": "Москва и МО",
+  "name": "Крымская",
+  "system": "FRESH_MAX_МСК_КРЫМСКАЯ",
+  "address": "Москва, Большая Черёмушкинская улица, 2Ас2",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_kuntsevo",
+  "region": "Москва и МО",
+  "name": "Кунцево",
+  "system": "FRESH_MAX_МСК_КУНЦЕВО",
+  "address": "Москва, Молодогвардейская улица, 61с20",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_lazorevyy",
+  "region": "Москва и МО",
+  "name": "Лазоревый проезд",
+  "system": "FRESH_GRC_МСК_ЛАЗОРЕВЫЙ",
+  "address": "129323, г. Москва, Лазоревый проезд, д.10",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lazorevyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_lyubertsy_dorozhnaya",
+  "region": "Москва и МО",
+  "name": "Ленина",
+  "system": "FRESH_GRC_МСК_ЛЮБЕРЦЫ_ДОРОЖНАЯ",
+  "address": "Московская область, г.о. Люберцы, пгт. Октябрьский, ул Ленина, стр. 42/1Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lyubertsy_dorozhnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_himki_leningradskoe_shosse",
+  "region": "Москва и МО",
+  "name": "Ленинградское шоссе 5",
+  "system": "FRESH_GRC_МСК_ХИМКИ_ЛЕНИНГРАДСКОЕ_ШОССЕ",
+  "address": "141407, Московская область, г. о. Химки, Ленинградское шоссе, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_himki_leningradskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pulkovskaya",
+  "region": "Москва и МО",
+  "name": "Ленинградское шоссе 58",
+  "system": "FRESH_GRC_МСК_ПУЛКОВСКАЯ",
+  "address": "125212, г Москва, вн.тер.г. муниципальный округ Головинский, ш Ленинградское, д. 58 стр. 26",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pulkovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_leninskiy_prospekt",
+  "region": "Москва и МО",
+  "name": "Ленинский проспект",
+  "system": "FRESH_GRC_МСК_ЛЕНИНСКИЙ_ПРОСПЕКТ",
+  "address": "119571, Москва, Ленинский проспект, 121/1к2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_leninskiy_prospekt.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_litovskiy",
+  "region": "Москва и МО",
+  "name": "Литовский 22",
+  "system": "FRESH_GRC_МСК_ЛИТОВСКИЙ",
+  "address": "117588, г Москва, вн.тер.г. муниципальный округ Ясенево, б-р Литовский, д. 22",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_litovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_lobachevskogo",
+  "region": "Москва и МО",
+  "name": "Лобачевского",
+  "system": "FRESH_MAX_МСК_ЛОБАЧЕВСКОГО",
+  "address": "Москва, улица Лобачевского, 114",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_lobnya_pobedy",
+  "region": "Москва и МО",
+  "name": "Лобня — Победы",
+  "system": "FRESH_GRC_МСК_ЛОБНЯ_ПОБЕДЫ",
+  "address": "141732, Московская область, Лобня, улица Победы, д. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lobnya_pobedy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_lokomotivnyy",
+  "region": "Москва и МО",
+  "name": "Локомотивный",
+  "system": "FRESH_GRC_МСК_ЛОКОМОТИВНЫЙ",
+  "address": "127238, г Москва, вн.тер.г. муниципальный округ Тимирязевский, проезд Локомотивный, д. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lokomotivnyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_lubyanskiy",
+  "region": "Москва и МО",
+  "name": "Лубянский",
+  "system": "FRESH_GRC_МСК_ЛУБЯНСКИЙ",
+  "address": "101000, г Москва, вн.тер.г. муниципальный округ Басманный, проезд Лубянский, д. 7 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lubyanskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_luganskaya",
+  "region": "Москва и МО",
+  "name": "Луганская",
+  "system": "FRESH_GRC_МСК_ЛУГАНСКАЯ",
+  "address": "115304, г Москва, ул Луганская, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_luganskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_luhmanovskaya",
+  "region": "Москва и МО",
+  "name": "Лухмановская 2",
+  "system": "FRESH_GRC_МСК_ЛУХМАНОВСКАЯ",
+  "address": "111675, г. Москва, ул. Лухмановская д.2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_luhmanovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_lyubertsy",
+  "region": "Москва и МО",
+  "name": "Лухмановская 12",
+  "system": "FRESH_MAX_МСК_ЛЮБЕРЦЫ",
+  "address": "Москва, Лухмановская улица, 2",
+  "status": "dup",
+  "source": "Ozon Job, проверено 16.11.2026: показывает Лухмановская, 2 — это склад «Лухмановская 2» со страницы",
+  "how": "",
+  "schemes": [],
+  "show": false
+ },
+ {
+  "id": "fresh_grc_msk_lyubertsy_krasnaya",
+  "region": "Москва и МО",
+  "name": "Люберцы — Красная",
+  "system": "FRESH_GRC_МСК_ЛЮБЕРЦЫ_КРАСНАЯ",
+  "address": "140000, МО, Люберцы, Красная ул., 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lyubertsy_krasnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_lyubertsy_popova",
+  "region": "Москва и МО",
+  "name": "Люберцы — Попова",
+  "system": "FRESH_GRC_МСК_ЛЮБЕРЦЫ_ПОПОВА",
+  "address": "140013, МО, г. Люберцы, ул. С.П. Попова 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_lyubertsy_popova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mazilovskiy",
+  "region": "Москва и МО",
+  "name": "Малая Филёвская",
+  "system": "FRESH_GRC_МСК_МАЗИЛОВСКИЙ",
+  "address": "121433, г Москва, вн.тер.г. муниципальный округ Фили-Давыдково, ул Малая Филёвская, д. 13",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mazilovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_margelova",
+  "region": "Москва и МО",
+  "name": "Маргелова",
+  "system": "FRESH_GRC_МСК_МАРГЕЛОВА",
+  "address": "125284, г Москва, вн.тер.г. муниципальный округ Хорошевский, ул Маргелова, д. 3 стр. 6",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_margelova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zhivopisnaya",
+  "region": "Москва и МО",
+  "name": "Маршала Жукова",
+  "system": "FRESH_GRC_МСК_ЖИВОПИСНАЯ",
+  "address": "123103, г Москва, вн.тер.г. муниципальный округ Хорошево-Мневники, пр-кт Маршала Жукова, д. 74 к. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zhivopisnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_marshala_savitskogo",
+  "region": "Москва и МО",
+  "name": "Маршала Савицкого",
+  "system": "FRESH_GRC_МСК_МАРШАЛА_САВИЦКОГО",
+  "address": "117623, г. Москва, ул. Маршала Савицкого, д. 7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_marshala_savitskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_masterkova",
+  "region": "Москва и МО",
+  "name": "Мастеркова 4",
+  "system": "FRESH_GRC_МСК_МАСТЕРКОВА",
+  "address": "115280, г Москва, вн.тер.г. муниципальный округ Даниловский, ул Мастеркова, д. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_masterkova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_misaylovo_prigorodnoe",
+  "region": "Москва и МО",
+  "name": "Мисайлово",
+  "system": "FRESH_GRC_МСК_МИСАЙЛОВО_ПРИГОРОДНОЕ",
+  "address": "Московская область, г.о. Ленинский, пгт. Мисайлово, мкр. Пригород Лесное, ш Пригородное, д. 24",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_misaylovo_prigorodnoe.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_ngr_msk_mitino",
+  "region": "Москва и МО",
+  "name": "Митино",
+  "system": "FRESH_NGR_МСК_МИТИНО",
+  "address": "143402, Московская область, г. Красногорск, коммунальная зона Красногорск-Митино тер., стр. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_ngr_msk_mitino.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mezhdunarodnaya",
+  "region": "Москва и МО",
+  "name": "Международная 38",
+  "system": "FRESH_GRC_МСК_МЕЖДУНАРОДНАЯ",
+  "address": "109544, г Москва, вн.тер.г. муниципальный округ Таганский, ул Международная, д. 38",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mezhdunarodnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_medynskaya",
+  "region": "Москва и МО",
+  "name": "Медынская",
+  "system": "FRESH_GRC_МСК_МЕДЫНСКАЯ",
+  "address": "117546, г. Москва, Медынская д.7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_medynskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_prospekt_mira",
+  "region": "Москва и МО",
+  "name": "Мира проспект",
+  "system": "FRESH_GRC_МСК_ПРОСПЕКТ_МИРА",
+  "address": "129226, г. Москва, проспект Мира, д.167",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_prospekt_mira.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mitinskaya",
+  "region": "Москва и МО",
+  "name": "Митинская",
+  "system": "FRESH_GRC_МСК_МИТИНСКАЯ",
+  "address": "125222, г. Москва, Митинская улица, 15",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mitinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mihnevskaya",
+  "region": "Москва и МО",
+  "name": "Михневская",
+  "system": "FRESH_GRC_МСК_МИХНЕВСКАЯ",
+  "address": "115547, г. Москва, ул. Михневская 7 к2 с1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mihnevskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_michurinskiy",
+  "region": "Москва и МО",
+  "name": "Мичуринский",
+  "system": "FRESH_GRC_МСК_МИЧУРИНСКИЙ",
+  "address": "119192, г Москва, вн.тер.г. муниципальный округ Раменки, пр-кт Мичуринский, д. 54 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_michurinskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_zvenigorodskoe",
+  "region": "Москва и МО",
+  "name": "Мневники 5",
+  "system": "FRESH_GRC_МСК_ЗВЕНИГОРОДСКОЕ",
+  "address": "123308, г Москва, вн.тер.г. муниципальный округ Хорошево-Мневники, ул Мнёвники, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_zvenigorodskoe.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_setun",
+  "region": "Москва и МО",
+  "name": "Можайское шоссе",
+  "system": "FRESH_GRC_МСК_СЕТУНЬ",
+  "address": "121354, Москва, муниципальный округ Можайский вн.тер.г., Можайское шоссе, д. 39, цокольный этаж",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_setun.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mozayka",
+  "region": "Москва и МО",
+  "name": "Мозайка",
+  "system": "FRESH_GRC_МСК_МОЗАЙКА",
+  "address": "115193, Москва, 7-я Кожуховская 9 ТРЦ «Мозайка»",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mozayka.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_molodogvardeyskaya",
+  "region": "Москва и МО",
+  "name": "Молодогвардейская",
+  "system": "FRESH_GRC_МСК_МОЛОДОГВАРДЕЙСКАЯ",
+  "address": "121351, г. Москва, Молодогвардейская д.21к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_molodogvardeyskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_molodtsova",
+  "region": "Москва и МО",
+  "name": "Молодцова",
+  "system": "FRESH_GRC_МСК_МОЛОДЦОВА",
+  "address": "127081, г. Москва, ул. Молодцова 21",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_molodtsova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_solnechnaya",
+  "region": "Москва и МО",
+  "name": "Московский — Солнечная",
+  "system": "FRESH_GRC_МСК_СОЛНЕЧНАЯ",
+  "address": "108813, г Москва, вн.тер.г. поселение Московский, г. Московский, ул. Солнечная, д. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_solnechnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_akademika_chumakova",
+  "region": "Москва и МО",
+  "name": "Московский — 3-й микрорайон",
+  "system": "FRESH_GRC_МСК_АКАДЕМИКА_ЧУМАКОВА",
+  "address": "108819, г Москва, вн.тер.г. муниципальный округ Филимонковский, г. Московский, мкр. 3-й, д. 1А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_akademika_chumakova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_mytischi",
+  "region": "Москва и МО",
+  "name": "Мытищи — Колпакова",
+  "system": "FRESH_MAX_МСК_МЫТИЩИ",
+  "address": "Московская обл., Мытищи, улица Колпакова, 23к1",
+  "status": "ok",
+  "source": "документ Ozon «Баллы на Дарксторах Фреш», п. 1.6",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mytischi_komarova",
+  "region": "Москва и МО",
+  "name": "Мытищи — Комарова",
+  "system": "FRESH_GRC_МСК_МЫТИЩИ_КОМАРОВА",
+  "address": "141002, МО, г. Мытищи, Ул. Комарова, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mytischi_komarova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mytischi_novomytischinskiy",
+  "region": "Москва и МО",
+  "name": "Мытищи — Новомытищинский",
+  "system": "FRESH_GRC_МСК_МЫТИЩИ_НОВОМЫТИЩИНСКИЙ",
+  "address": "141018, МО, г Мытищи, пр-кт Новомытищинский, д. 49 к. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mytischi_novomytischinskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mytischi_beloborodova",
+  "region": "Москва и МО",
+  "name": "Мытищи — Олимпийский",
+  "system": "FRESH_GRC_МСК_МЫТИЩИ_БЕЛОБОРОДОВА",
+  "address": "141006, Московская область, г.о. Мытищи, г Мытищи, пр-кт Олимпийский, д. 21 к. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mytischi_beloborodova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_myasnitskaya",
+  "region": "Москва и МО",
+  "name": "Мясницкая",
+  "system": "FRESH_GRC_МСК_МЯСНИЦКАЯ",
+  "address": "101000, г. Москва, Мясницкая улица д.13с20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_myasnitskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_nagatinskaya_naberezhnaya",
+  "region": "Москва и МО",
+  "name": "Нагатинская набережная",
+  "system": "FRESH_GRC_МСК_НАГАТИНСКАЯ_НАБЕРЕЖНАЯ",
+  "address": "115470, г Москва, Нагатинская наб, д. 34",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_nagatinskaya_naberezhnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_narodnoe_opolchenie",
+  "region": "Москва и МО",
+  "name": "Народное ополчение 21к1",
+  "system": "FRESH_GRC_МСК_НАРОДНОЕ_ОПОЛЧЕНИЕ",
+  "address": "123154, г. Москва, Народное ополчение, д. 21к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_narodnoe_opolchenie.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_marshala_tuhachevskogo",
+  "region": "Москва и МО",
+  "name": "Народного Ополчения 29к2",
+  "system": "FRESH_GRC_МСК_МАРШАЛА_ТУХАЧЕВСКОГО",
+  "address": "123154, г Москва, вн.тер.г. муниципальный округ Хорошево-Мневники, ул Народного Ополчения, д. 29 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_marshala_tuhachevskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_krasnogorsk_stantsionnaya",
+  "region": "Москва и МО",
+  "name": "Нахабино",
+  "system": "FRESH_GRC_МСК_КРАСНОГОРСК_СТАНЦИОННАЯ",
+  "address": "143430, Московская область, г.о. Красногорск, пгт. Нахабино, ул Станционная, д. 22/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_krasnogorsk_stantsionnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_nezhinskaya",
+  "region": "Москва и МО",
+  "name": "Нежинская",
+  "system": "FRESH_GRC_МСК_НЕЖИНСКАЯ",
+  "address": "119517, г Москва, вн.тер.г. муниципальный округ Очаково-Матвеевское, ул Нежинская, д. 6 к. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_nezhinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mnevniki",
+  "region": "Москва и МО",
+  "name": "Нижние Мнёвники 37Ас20",
+  "system": "FRESH_GRC_МСК_МНЕВНИКИ",
+  "address": "123423, г Москва, вн.тер.г. муниципальный округ Хорошево-Мневники, ул Нижние Мнёвники, д. 37А стр. 20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mnevniki.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_nikulinskaya",
+  "region": "Москва и МО",
+  "name": "Никулинская",
+  "system": "FRESH_GRC_МСК_НИКУЛИНСКАЯ",
+  "address": "119602, г. Москва, ул. Никулинская д. 2 к. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_nikulinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_nikolaya_starostina",
+  "region": "Москва и МО",
+  "name": "Николая Старостина",
+  "system": "FRESH_GRC_МСК_НИКОЛАЯ_СТАРОСТИНА",
+  "address": "111673, г. Москва, ул. Николая Старостина, д. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_nikolaya_starostina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_fresh_max_msk_novaya_riga",
+  "region": "Москва и МО",
+  "name": "Новая Рига",
+  "system": "FRESH_FRESH_MAX_МСК_НОВАЯ_РИГА",
+  "address": "Московская обл., г.о. Истра, д. Лобаново, 256",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_marinskiy",
+  "region": "Москва и МО",
+  "name": "Новочеркасский 20к1",
+  "system": "FRESH_GRC_МСК_МАРЬИНСКИЙ",
+  "address": "109651, г Москва, вн.тер.г. муниципальный округ Марьино, б-р Новочеркасский, д. 20 к. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_marinskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_novoslobodskaya",
+  "region": "Москва и МО",
+  "name": "Новослободская",
+  "system": "FRESH_GRC_МСК_НОВОСЛОБОДСКАЯ",
+  "address": "127030 г Москва, ул Новослободская, д. 20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_novoslobodskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_novocheremushkinskaya",
+  "region": "Москва и МО",
+  "name": "Новочеремушкинская",
+  "system": "FRESH_GRC_МСК_НОВОЧЕРЕМУШКИНСКАЯ",
+  "address": "117218, г. Москва, ул. Новочеремушкинская, 25",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_novocheremushkinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_novyy_arbat",
+  "region": "Москва и МО",
+  "name": "Новый Арбат",
+  "system": "FRESH_MAX_МСК_НОВЫЙ_АРБАТ",
+  "address": "Москва, улица Новый Арбат, 21",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ogorodnyy",
+  "region": "Москва и МО",
+  "name": "Огородный",
+  "system": "FRESH_GRC_МСК_ОГОРОДНЫЙ",
+  "address": "127254, г Москва, проезд Огородный, д. 12",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ogorodnyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_odintsovo_nedelina",
+  "region": "Москва и МО",
+  "name": "Одинцово — Маршала Неделина",
+  "system": "FRESH_GRC_МСК_ОДИНЦОВО_НЕДЕЛИНА",
+  "address": "143003, МО, Одинцово, ул. Маршала Неделина д.2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_odintsovo_nedelina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_odintsovo_mozhayskoe_shosse",
+  "region": "Москва и МО",
+  "name": "Одинцово — Можайское",
+  "system": "FRESH_GRC_МСК_ОДИНЦОВО_МОЖАЙСКОЕ_ШОССЕ",
+  "address": "143005, Московская область, г Одинцово, ш Можайское, д. 76А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_odintsovo_mozhayskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_odintsovo",
+  "region": "Москва и МО",
+  "name": "Одинцово — Полевая",
+  "system": "FRESH_MAX_МСК_ОДИНЦОВО",
+  "address": "Московская обл., Одинцово, Полевая улица, 19",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_odintsovo_chistyakovoy",
+  "region": "Москва и МО",
+  "name": "Одинцово — Чистяковой 3",
+  "system": "FRESH_GRC_МСК_ОДИНЦОВО_ЧИСТЯКОВОЙ",
+  "address": "143001, Московская область, г.о. Одинцовский, г Одинцово, ул Чистяковой, д. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_odintsovo_chistyakovoy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_onezhskaya",
+  "region": "Москва и МО",
+  "name": "Онежская 9/4кА",
+  "system": "FRESH_GRC_МСК_ОНЕЖСКАЯ",
+  "address": "125438, г Москва, вн.тер.г. муниципальный округ Головинский, ул Онежская, д. 9/4 к. А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_onezhskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_orehovyy_bulvar",
+  "region": "Москва и МО",
+  "name": "Ореховый 63",
+  "system": "FRESH_GRC_МСК_ОРЕХОВЫЙ_БУЛЬВАР",
+  "address": "115682,г Москва, вн.тер.г. муниципальный округ Зябликово, б-р Ореховый, д. 63",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_orehovyy_bulvar.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_osennyaya",
+  "region": "Москва и МО",
+  "name": "Осенняя",
+  "system": "FRESH_GRC_МСК_ОСЕННЯЯ",
+  "address": "121609, г. Москва, ул. Осенняя, д. 23",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_osennyaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_balashiha_pavlino",
+  "region": "Москва и МО",
+  "name": "Павлино",
+  "system": "FRESH_GRC_МСК_БАЛАШИХА_ПАВЛИНО",
+  "address": "143988, Московская область, г.о. Балашиха, г Балашиха, мкр. Павлино, д. 36А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_balashiha_pavlino.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_palehskaya",
+  "region": "Москва и МО",
+  "name": "Палехская",
+  "system": "FRESH_GRC_МСК_ПАЛЕХСКАЯ",
+  "address": "129347, г Москва, вн.тер.г. муниципальный округ Ярославский, ул Палехская, д. 147 к. 1 стр. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_palehskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_papernika",
+  "region": "Москва и МО",
+  "name": "Паперника",
+  "system": "FRESH_GRC_МСК_ПАПЕРНИКА",
+  "address": "109456, г Москва, вн.тер.г. муниципальный округ Рязанский, ул Паперника, д. 9",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_papernika.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_park_haus",
+  "region": "Москва и МО",
+  "name": "Парк Хаус",
+  "system": "FRESH_MAX_МСК_ПАРК_ХАУС",
+  "address": "Москва, Бесединское шоссе, 15",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "ТЦ «Парк Хаус»",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_bashnya",
+  "region": "Москва и МО",
+  "name": "Первомайская",
+  "system": "FRESH_GRC_МСК_БАШНЯ",
+  "address": "105264, г Москва, вн.тер.г. муниципальный округ Измайлово, ул Верхняя Первомайская, д. 36 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_bashnya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pererva",
+  "region": "Москва и МО",
+  "name": "Перерва",
+  "system": "FRESH_GRC_МСК_ПЕРЕРВА",
+  "address": "109651, г. Москва, ул. Перерва д. 8 с 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pererva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_plyuschiha",
+  "region": "Москва и МО",
+  "name": "Плющиха",
+  "system": "FRESH_GRC_МСК_ПЛЮЩИХА",
+  "address": "119121, г. Москва, Плющиха ул., дом 42",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_plyuschiha.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_pravoberezhnyy",
+  "region": "Москва и МО",
+  "name": "Правобережный",
+  "system": "FRESH_MAX_МСК_ПРАВОБЕРЕЖНЫЙ",
+  "address": "Москва, Правобережная улица, 1Б",
+  "status": "gone",
+  "source": "в Ozon Job не найден; адрес из старой страницы Ozon",
+  "how": "",
+  "schemes": [],
+  "show": false
+ },
+ {
+  "id": "fresh_grc_msk_presnenskiy_val",
+  "region": "Москва и МО",
+  "name": "Пресненский Вал",
+  "system": "FRESH_GRC_МСК_ПРЕСНЕНСКИЙ_ВАЛ",
+  "address": "123557, г Москва, вн.тер.г. муниципальный округ Пресненский, ул Пресненский Вал, д. 14",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_presnenskiy_val.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_privolnaya",
+  "region": "Москва и МО",
+  "name": "Привольная",
+  "system": "FRESH_MAX_МСК_ПРИВОЛЬНАЯ",
+  "address": "Москва, Привольная улица, 65/32",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_prokshinskiy",
+  "region": "Москва и МО",
+  "name": "Прокшинский",
+  "system": "FRESH_GRC_МСК_ПРОКШИНСКИЙ",
+  "address": "108802, Россия, Москва г, муниципальный округ Коммунарка вн.тер.г., Прокшинский пр-кт, 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_prokshinskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_proletarskiy",
+  "region": "Москва и МО",
+  "name": "Пролетарский",
+  "system": "FRESH_GRC_МСК_ПРОЛЕТАРСКИЙ",
+  "address": "115522, г. Москва, Пролетарский пр., 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_proletarskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_prostornaya",
+  "region": "Москва и МО",
+  "name": "Просторная",
+  "system": "FRESH_GRC_МСК_ПРОСТОРНАЯ",
+  "address": "107392, г Москва, вн.тер.г. муниципальный округ Богородское, ул Просторная, д. 7 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_prostornaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_belyaevo",
+  "region": "Москва и МО",
+  "name": "Профсоюзная",
+  "system": "FRESH_GRC_МСК_БЕЛЯЕВО",
+  "address": "117437, г Москва, вн.тер.г. муниципальный округ Коньково, ул Профсоюзная, д. 104",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_belyaevo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_podolsk",
+  "region": "Москва и МО",
+  "name": "Подольск — Комсомольская, д.1",
+  "system": "FRESH_MAX_МСК_ПОДОЛЬСК",
+  "address": "Московская обл., Подольск, Комсомольская улица, 1к34",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_podolsk_komsomolskaya",
+  "region": "Москва и МО",
+  "name": "Подольск — Комсомольская, д.3",
+  "system": "FRESH_GRC_МСК_ПОДОЛЬСК_КОМСОМОЛЬСКАЯ",
+  "address": "142100,МО, г. Подольск, ул. Комсомольская, д.3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_podolsk_komsomolskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_podolsk_oktyabrskiy",
+  "region": "Москва и МО",
+  "name": "Подольск — Октябрьский проспект",
+  "system": "FRESH_GRC_МСК_ПОДОЛЬСК_ОКТЯБРЬСКИЙ",
+  "address": "142117, МО, г.о. Подольск, г Подольск, пр-кт Октябрьский, д. 8а",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_podolsk_oktyabrskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_putilkovo",
+  "region": "Москва и МО",
+  "name": "Путилковское шоссе",
+  "system": "FRESH_GRC_МСК_ПУТИЛКОВО",
+  "address": "143441, Московская обл., г.о. Красногорск, д. Путилково, Путилковское шоссе, д. 23, стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_putilkovo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pushkino_institutskaya",
+  "region": "Москва и МО",
+  "name": "Пушкино — Институтская",
+  "system": "FRESH_GRC_МСК_ПУШКИНО_ИНСТИТУТСКАЯ",
+  "address": "Московская область, г.о. Пушкинский, г Пушкино, ул Институтская, д. 25 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pushkino_institutskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pushkino_pisarevskaya",
+  "region": "Москва и МО",
+  "name": "Пушкино — Писаревская",
+  "system": "FRESH_GRC_МСК_ПУШКИНО_ПИСАРЕВСКАЯ",
+  "address": "141204, МО, г Пушкино, ул Писаревская, д. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pushkino_pisarevskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_pushkino",
+  "region": "Москва и МО",
+  "name": "Пушкино — Ярославское",
+  "system": "FRESH_MAX_МСК_ПУШКИНО",
+  "address": "Московская обл., Пушкино, Ярославское шоссе, 2Вс3",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pyreva",
+  "region": "Москва и МО",
+  "name": "Пырьева, 20",
+  "system": "FRESH_GRC_МСК_ПЫРЬЕВА",
+  "address": "119285, г. Москва, ул. Пырьева д. 20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pyreva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_mosfilmovskiy",
+  "region": "Москва и МО",
+  "name": "Пырьева, 24",
+  "system": "FRESH_GRC_МСК_МОСФИЛЬМОВСКИЙ",
+  "address": "119285, г Москва, вн.тер.г. муниципальный округ Раменки, ул Пырьева, д. 24",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_mosfilmovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_shodnya",
+  "region": "Москва и МО",
+  "name": "Пятницкое шоссе, 12",
+  "system": "FRESH_GRC_МСК_СХОДНЯ",
+  "address": "125464, г Москва, вн.тер.г. муниципальный округ Митино, ш. Пятницкое, д. 12",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_shodnya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_pyatnitskoe_shosse",
+  "region": "Москва и МО",
+  "name": "Пятницкое шоссе, 43",
+  "system": "FRESH_GRC_МСК_ПЯТНИЦКОЕ_ШОССЕ",
+  "address": "125310, г Москва, вн.тер.г. муниципальный округ Митино, ш. Пятницкое, д. 43",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_pyatnitskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ramenskoe_krasnoarmeyskaya",
+  "region": "Москва и МО",
+  "name": "Раменское",
+  "system": "FRESH_GRC_МСК_РАМЕНСКОЕ_КРАСНОАРМЕЙСКАЯ",
+  "address": "140103, МО, г.о. Раменское, ул. Красноармейская д. 17А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ramenskoe_krasnoarmeyskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_reutov_ashhabadskaya",
+  "region": "Москва и МО",
+  "name": "Реутов — Ашхабадская",
+  "system": "FRESH_GRC_МСК_РЕУТОВ_АШХАБАДСКАЯ",
+  "address": "Московская обл., Реутов, Ашхабадская улица, 4",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_reutov",
+  "region": "Москва и МО",
+  "name": "Реутов — Транспортная",
+  "system": "FRESH_MAX_МСК_РЕУТОВ",
+  "address": "143960, Московская область, г. Реутов, ул. Транспортная, вл. 5А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_max_msk_reutov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_rizhskiy",
+  "region": "Москва и МО",
+  "name": "Рижский",
+  "system": "FRESH_GRC_МСК_РИЖСКИЙ",
+  "address": "129626, г. Москва, Рижский проезд, 11",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_rizhskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_rimskogo_korsakova",
+  "region": "Москва и МО",
+  "name": "Римского-Корсакова",
+  "system": "FRESH_GRC_МСК_РИМСКОГО-КОРСАКОВА",
+  "address": "127566, г. Москва, ул. Римского-Корсакова, 11с12",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_rimskogo_korsakova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_rokossovskogo",
+  "region": "Москва и МО",
+  "name": "Рокоссовского",
+  "system": "FRESH_GRC_МСК_РОКОССОВСКОГО",
+  "address": "107370, г. Москва, Бульвар Маршала Рокоссовского, 7к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_rokossovskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_rozhdestvenskaya",
+  "region": "Москва и МО",
+  "name": "Рождественская",
+  "system": "FRESH_GRC_МСК_РОЖДЕСТВЕНСКАЯ",
+  "address": "111677, г. Москва, Рождественская д. 23к2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_rozhdestvenskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ryazanskiy_prospekt",
+  "region": "Москва и МО",
+  "name": "Рязанский проспект",
+  "system": "FRESH_GRC_МСК_РЯЗАНСКИЙ_ПРОСПЕКТ",
+  "address": "109428, г Москва, вн.тер.г. муниципальный округ Рязанский, пр-кт Рязанский, д. 6 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ryazanskiy_prospekt.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_savelovskiy",
+  "region": "Москва и МО",
+  "name": "Савеловский",
+  "system": "FRESH_MAX_МСК_САВЕЛОВСКИЙ",
+  "address": "Москва, Бумажный проезд, 14с2",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_salarevo",
+  "region": "Москва и МО",
+  "name": "Саларьево",
+  "system": "FRESH_MAX_МСК_САЛАРЬЕВО",
+  "address": "Москва, улица Адмирала Корнилова, 37с1",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_svobody",
+  "region": "Москва и МО",
+  "name": "Свободы",
+  "system": "FRESH_GRC_МСК_СВОБОДЫ",
+  "address": "125362, г. Москва, ул. Свободы, 20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_svobody.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_severodvinskaya",
+  "region": "Москва и МО",
+  "name": "Северодвинская",
+  "system": "FRESH_GRC_МСК_СЕВЕРОДВИНСКАЯ",
+  "address": "127224, Москва, ул. Северодвинская 21",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_severodvinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_seligerskaya",
+  "region": "Москва и МО",
+  "name": "Селигерская",
+  "system": "FRESH_GRC_МСК_СЕЛИГЕРСКАЯ",
+  "address": "127474, г Москва, вн.тер.г. муниципальный округ Бескудниковский, ул Селигерская, д. 16А стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_seligerskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_serpuhov_oboronnaya",
+  "region": "Москва и МО",
+  "name": "Серпухов",
+  "system": "FRESH_GRC_МСК_СЕРПУХОВ_ОБОРОННАЯ",
+  "address": "142211, Московская область,г Серпухов, ул Оборонная, д. 28",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_serpuhov_oboronnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_moskva_siti",
+  "region": "Москва и МО",
+  "name": "Сити",
+  "system": "FRESH_MAX_МСК_МОСКВА_СИТИ",
+  "address": "Москва, Пресненская набережная, 4с1",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "башня «Эволюция»",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_siesta",
+  "region": "Москва и МО",
+  "name": "Сиеста",
+  "system": "FRESH_GRC_МСК_СИЕСТА",
+  "address": "108802, Москва, поселение Сосенское, Николо-Хованская ул., д.7, стр.1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_slavyanskiy",
+  "region": "Москва и МО",
+  "name": "Славянский",
+  "system": "FRESH_GRC_МСК_СЛАВЯНСКИЙ",
+  "address": "121352 Москва, Славянский бул.9 к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_slavyanskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_skandinavskiy",
+  "region": "Москва и МО",
+  "name": "Скандинавский бульвар",
+  "system": "FRESH_GRC_МСК_СКАНДИНАВСКИЙ",
+  "address": "108801, Москва, Скандинавский бульвар, 7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_skandinavskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_smolnaya",
+  "region": "Москва и МО",
+  "name": "Смольная",
+  "system": "FRESH_MAX_МСК_СМОЛЬНАЯ",
+  "address": "Москва, Смольная улица, 34А",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_sokolnicheskaya",
+  "region": "Москва и МО",
+  "name": "Сокольническая",
+  "system": "FRESH_GRC_МСК_СОКОЛЬНИЧЕСКАЯ",
+  "address": "107014, г. Москва, Сокольническая пл. д. 9А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_sokolnicheskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_starovatutinskiy",
+  "region": "Москва и МО",
+  "name": "Староватутинский",
+  "system": "FRESH_GRC_МСК_СТАРОВАТУТИНСКИЙ",
+  "address": "129281, г. Москва, Староватутинский пр., д.14",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_starovatutinskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_starokaluzhskoe",
+  "region": "Москва и МО",
+  "name": "Старокалужское",
+  "system": "FRESH_GRC_МСК_СТАРОКАЛУЖСКОЕ",
+  "address": "117630, г. Москва, Старокалужское шоссе, д. 62",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_starokaluzhskoe.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_stroginskiy_bulvar",
+  "region": "Москва и МО",
+  "name": "Строгинский бульвар 1к2",
+  "system": "FRESH_GRC_МСК_СТРОГИНСКИЙ_БУЛЬВАР",
+  "address": "123592, г Москва, вн.тер.г. муниципальный округ Строгино, б-р Строгинский, д. 1 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_stroginskiy_bulvar.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_suschevskiy",
+  "region": "Москва и МО",
+  "name": "Сущевский вал",
+  "system": "FRESH_GRC_МСК_СУЩЕВСКИЙ",
+  "address": "129594, г. Москва, Сущевский вал, д. 71",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_suschevskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_tallinskaya",
+  "region": "Москва и МО",
+  "name": "Таллинская",
+  "system": "FRESH_GRC_МСК_ТАЛЛИНСКАЯ",
+  "address": "123458, Москва, Таллинская ул., 10",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_tallinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_tihaya",
+  "region": "Москва и МО",
+  "name": "Тихая",
+  "system": "FRESH_GRC_МСК_ТИХАЯ",
+  "address": "109387, г. Москва, Тихая улица, 18",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_tihaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_troitsk",
+  "region": "Москва и МО",
+  "name": "Троицк — Индустриальная",
+  "system": "FRESH_MAX_МСК_ТРОИЦК",
+  "address": "Москва, Троицк, Индустриальная улица, 3",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_desenovskoe_stanislavskie_prudy",
+  "region": "Москва и МО",
+  "name": "Троицк — 1-я Нововатутинская",
+  "system": "FRESH_GRC_МСК_ДЕСЕНОВСКОЕ_СТАНИСЛАВСКИЕ_ПРУДЫ",
+  "address": "108836, г. Москва, вн.тер.г. городской округ Троицк, ул. 1-я Нововатутинская, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_desenovskoe_stanislavskie_prudy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ivanteevka_trudovaya",
+  "region": "Москва и МО",
+  "name": "Трудовая улица",
+  "system": "FRESH_GRC_МСК_ИВАНТЕЕВКА_ТРУДОВАЯ",
+  "address": "141281, Московская область, г. о. Пушкинский, г. Ивантеевка, ул. Трудовая, д. 23",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ivanteevka_trudovaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_tyumenskiy",
+  "region": "Москва и МО",
+  "name": "Тюменский проезд",
+  "system": "FRESH_MAX_МСК_ТЮМЕНСКИЙ",
+  "address": "Москва, Тюменский проезд, 5с15",
+  "status": "gone",
+  "source": "в Ozon Job не найден; адрес из старых справочников",
+  "how": "",
+  "schemes": [],
+  "show": false
+ },
+ {
+  "id": "fresh_grc_msk_dzerzhinskiy_ugreshskaya",
+  "region": "Москва и МО",
+  "name": "Угрешская 15",
+  "system": "FRESH_GRC_МСК_ДЗЕРЖИНСКИЙ_УГРЕШСКАЯ",
+  "address": "140090 Московская обл. Дзержинский, ул. Угрешская, д. 15",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_dzerzhinskiy_ugreshskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_uley",
+  "region": "Москва и МО",
+  "name": "Улей",
+  "system": "FRESH_GRC_МСК_УЛЕЙ",
+  "address": "125562, г. Москва, Алтуфьевское ш., 24к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_uley.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_fedosino",
+  "region": "Москва и МО",
+  "name": "Федосьино",
+  "system": "FRESH_GRC_МСК_ФЕДОСЬИНО",
+  "address": "119634, г. Москва, ул. Федосьино, д.12",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_fedosino.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_tashkentskiy",
+  "region": "Москва и МО",
+  "name": "Ферганская",
+  "system": "FRESH_GRC_МСК_ТАШКЕНТСКИЙ",
+  "address": "109444, г Москва, вн.тер.г. муниципальный округ Выхино-Жулебино, ул Ферганская, д. 17",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_tashkentskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_ferganskiy",
+  "region": "Москва и МО",
+  "name": "Ферганский",
+  "system": "FRESH_GRC_МСК_ФЕРГАНСКИЙ",
+  "address": "109507, г. Москва, Ферганский пр-д 10Б строение 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_ferganskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_festivalnaya",
+  "region": "Москва и МО",
+  "name": "Фестивальная 28стр1",
+  "system": "FRESH_GRC_МСК_ФЕСТИВАЛЬНАЯ",
+  "address": "125414, г Москва, вн.тер.г. муниципальный округ Ховрино, ул Фестивальная, д. 28 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_festivalnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_druzhby",
+  "region": "Москва и МО",
+  "name": "Фестивальная",
+  "system": "FRESH_GRC_МСК_ДРУЖБЫ",
+  "address": "125565, г Москва, вн.тер.г. муниципальный округ Левобережный, ул Фестивальная, д. 2А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_druzhby.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_fruktovaya",
+  "region": "Москва и МО",
+  "name": "Фруктовая",
+  "system": "FRESH_GRC_МСК_ФРУКТОВАЯ",
+  "address": "117556, г. Москва, ул. Фруктовая, д.8к3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_fruktovaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_himki_nagornoe",
+  "region": "Москва и МО",
+  "name": "Химки — Нагорное шоссе",
+  "system": "FRESH_GRC_МСК_ХИМКИ_НАГОРНОЕ",
+  "address": "141407, Московская область, г.о. Химки, г Химки, ш Нагорное, д. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_himki_nagornoe.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_himki_opanasenko",
+  "region": "Москва и МО",
+  "name": "Химки — Опанасенко",
+  "system": "FRESH_GRC_МСК_ХИМКИ_ОПАНАСЕНКО",
+  "address": "Московская область, г.о. Химки, г Химки, ул Опанасенко, стр. 2А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_himki_opanasenko.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_himki_podrezkovo",
+  "region": "Москва и МО",
+  "name": "Химки — Подрезково",
+  "system": "FRESH_GRC_МСК_ХИМКИ_ПОДРЕЗКОВО",
+  "address": "141446, Московская область, г.о. Химки, г Химки, мкр. Подрезково, ул Центральная, стр. 4С",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_himki_podrezkovo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_himki_levoberezhnyy_prud",
+  "region": "Москва и МО",
+  "name": "Химки — Совхозная",
+  "system": "FRESH_GRC_МСК_ХИМКИ_ЛЕВОБЕРЕЖНЫЙ_ПРУД",
+  "address": "141406, Московская область, г.о. Химки, г. Химки, мкр. Левобережный, ул. Совхозная, стр. 19А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_himki_levoberezhnyy_prud.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_krasnaya_presnya",
+  "region": "Москва и МО",
+  "name": "Хорошёвский 2-й проезд",
+  "system": "FRESH_MAX_МСК_КРАСНАЯ_ПРЕСНЯ",
+  "address": "Москва, 2-й Хорошёвский проезд, 7с1А",
+  "status": "gone",
+  "source": "в Ozon Job не найден (Красная Пресня, 12 — другой склад со страницы)",
+  "how": "",
+  "schemes": [],
+  "show": false
+ },
+ {
+  "id": "fresh_grc_msk_tsandera",
+  "region": "Москва и МО",
+  "name": "Цандера",
+  "system": "FRESH_GRC_МСК_ЦАНДЕРА",
+  "address": "129075, Москва, улица Цандера, 7к2А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_tsandera.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_tsyurupy",
+  "region": "Москва и МО",
+  "name": "Цюрупы",
+  "system": "FRESH_GRC_МСК_ЦЮРУПЫ",
+  "address": "117418, г Москва, вн.тер.г. муниципальный округ Черемушки, ул Цюрупы, д. 28",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_tsyurupy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_chasovaya",
+  "region": "Москва и МО",
+  "name": "Часовая",
+  "system": "FRESH_GRC_МСК_ЧАСОВАЯ",
+  "address": "125315, г. Москва, ул. Часовая, д.11 стр.2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_chasovaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_sumskoy",
+  "region": "Москва и МО",
+  "name": "Чертановская, 20",
+  "system": "FRESH_GRC_МСК_СУМСКОЙ",
+  "address": "117525, г Москва, вн.тер.г. муниципальный округ Чертаново Северное, ул Чертановская, д. 20 к. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_sumskoy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_chertanovskaya",
+  "region": "Москва и МО",
+  "name": "Чертановская, 47",
+  "system": "FRESH_GRC_МСК_ЧЕРТАНОВСКАЯ",
+  "address": "117534, г.Москва,Чертановская улица, дом 47",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_chertanovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_shabolovka",
+  "region": "Москва и МО",
+  "name": "Шаболовка",
+  "system": "FRESH_GRC_МСК_ШАБОЛОВКА",
+  "address": "115419, г. Москва, Шаболовка, д. 65к1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_shabolovka.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_ngr_msk_sharikopodshipnikovskaya",
+  "region": "Москва и МО",
+  "name": "Шарикоподшипниковская",
+  "system": "FRESH_NGR_МСК_ШАРИКОПОДШИПНИКОВСКАЯ",
+  "address": "115088, г. Москва, ул. Шарикоподшипниковская, д. 13, стр. 46",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_ngr_msk_sharikopodshipnikovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_scherbinka_rodniki",
+  "region": "Москва и МО",
+  "name": "Щербинка",
+  "system": "FRESH_GRC_МСК_ЩЕРБИНКА_РОДНИКИ",
+  "address": "108823, г Москва, вн.тер.г. муниципальный округ Щербинка, п Знамя Октября, мкр Родники, д. 9",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_scherbinka_rodniki.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_schelkovskaya",
+  "region": "Москва и МО",
+  "name": "Щёлковская",
+  "system": "FRESH_GRC_МСК_ЩЕЛКОВСКАЯ",
+  "address": "105523, г. Москва, Щёлковское ш., 86",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_schelkovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_msk_schukino",
+  "region": "Москва и МО",
+  "name": "Щукино",
+  "system": "FRESH_MAX_МСК_ЩУКИНО",
+  "address": "Москва, Авиационная улица, 68к4",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_sirenevaya",
+  "region": "Москва и МО",
+  "name": "Щелково",
+  "system": "FRESH_GRC_МСК_СИРЕНЕВАЯ",
+  "address": "141109, МО, Щелково, Сиреневая улица, 16А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_sirenevaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_elektrostal_krasnaya",
+  "region": "Москва и МО",
+  "name": "Электросталь",
+  "system": "FRESH_GRC_МСК_ЭЛЕКТРОСТАЛЬ_КРАСНАЯ",
+  "address": "144000, МО, г. Электросталь, Красная улица, д. 31",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_elektrostal_krasnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_yunyh_lenintsev",
+  "region": "Москва и МО",
+  "name": "Юных Ленинцев",
+  "system": "FRESH_GRC_МСК_ЮНЫХ_ЛЕНИНЦЕВ",
+  "address": "109390, г. Москва, ул. Юных Ленинцев, д. 7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_yunyh_lenintsev.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_yurovskaya",
+  "region": "Москва и МО",
+  "name": "Юровская",
+  "system": "FRESH_GRC_МСК_ЮРОВСКАЯ",
+  "address": "125627, г. Москва, ул. Юровская, д.101",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_yurovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_msk_yana_raynisa",
+  "region": "Москва и МО",
+  "name": "Яна Райниса",
+  "system": "FRESH_GRC_МСК_ЯНА_РАЙНИСА",
+  "address": "125459, г. Москва, б-р Яна Райниса д. 23",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_msk_yana_raynisa.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_ploschad_muzhestva",
+  "region": "Санкт-Петербург",
+  "name": "2-й Муринский",
+  "system": "FRESH_GRC_СПБ_ПЛОЩАДЬ_МУЖЕСТВА",
+  "address": "194021, г. Санкт-Петербург, муниципальный округ Светлановское вн.тер.г, пр-кт 2-й Муринский, дом 36, строение 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_ploschad_muzhestva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_vasilevskiy_ostrov",
+  "region": "Санкт-Петербург",
+  "name": "6-я линия Васильевского Острова",
+  "system": "FRESH_GRC_СПБ_ВАСИЛЬЕВСКИЙ_ОСТРОВ",
+  "address": "199178, г Санкт-Петербург, линия 6-я В.О., д. 55 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_vasilevskiy_ostrov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_antonova_ovseenko",
+  "region": "Санкт-Петербург",
+  "name": "Антонова-Овсеенко",
+  "system": "FRESH_GRC_СПБ_АНТОНОВА_ОВСЕЕНКО",
+  "address": "193168, г Санкт-Петербург, вн.тер.г. муниципальный округ Невский округ, ул Антонова-Овсеенко, д. 20 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_antonova_ovseenko.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_artseulovskaya",
+  "region": "Санкт-Петербург",
+  "name": "Арцеуловская",
+  "system": "FRESH_GRC_СПБ_АРЦЕУЛОВСКАЯ",
+  "address": "197376, г Санкт-Петербург, вн.тер.г. муниципальный округ Юнтолово, ал. Арцеуловская, д. 5 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_artseulovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_afonskaya",
+  "region": "Санкт-Петербург",
+  "name": "Афонская",
+  "system": "FRESH_GRC_СПБ_АФОНСКАЯ",
+  "address": "197375, г Санкт-Петербург, вн.тер.г. муниципальный округ Коломяги, ул Афонская, д. 25 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_afonskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_babushkina",
+  "region": "Санкт-Петербург",
+  "name": "Бабушкина",
+  "system": "FRESH_GRC_СПБ_БАБУШКИНА",
+  "address": "192012, г Санкт-Петербург, вн.тер.г. муниципальный округ Обуховский, ул Бабушкина, д. 84 к. 2 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_babushkina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_belorusskaya",
+  "region": "Санкт-Петербург",
+  "name": "Белорусская",
+  "system": "FRESH_GRC_СПБ_БЕЛОРУССКАЯ",
+  "address": "195298, г Санкт-Петербург, вн.тер.г. муниципальный округ Пороховые, ул Белорусская, д. 4 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_belorusskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_laboratornyy",
+  "region": "Санкт-Петербург",
+  "name": "Бестужевская",
+  "system": "FRESH_GRC_СПБ_ЛАБОРАТОРНЫЙ",
+  "address": "195272, г Санкт-Петербург, вн.тер.г. муниципальный округ Пискаревка, ул Бестужевская, д. 10 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_laboratornyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_spb_bestuzhevskiy",
+  "region": "Санкт-Петербург",
+  "name": "Бестужевский",
+  "system": "FRESH_MAX_СПБ_БЕСТУЖЕВСКИЙ",
+  "address": "Санкт-Петербург, Бестужевская улица, 10",
+  "status": "dup",
+  "source": "тот же адрес, что у склада «Бестужевская» со страницы",
+  "how": "",
+  "schemes": [],
+  "show": false
+ },
+ {
+  "id": "fresh_grc_spb_bolshaya_porohovskaya",
+  "region": "Санкт-Петербург",
+  "name": "Большая Пороховская",
+  "system": "FRESH_GRC_СПБ_БОЛЬШАЯ_ПОРОХОВСКАЯ",
+  "address": "195248, Санкт-Петербург, Большая Пороховская улица д. 47 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_bolshaya_porohovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_narodnaya",
+  "region": "Санкт-Петербург",
+  "name": "Большевиков",
+  "system": "FRESH_GRC_СПБ_НАРОДНАЯ",
+  "address": "г Санкт-Петербург, вн.тер.г. муниципальный округ Народный, пр-кт Большевиков, д. 42 к. 2 стр. 2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_narodnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_borovaya",
+  "region": "Санкт-Петербург",
+  "name": "Боровая",
+  "system": "FRESH_GRC_СПБ_БОРОВАЯ",
+  "address": "192007, г Санкт-Петербург, вн.тер.г. муниципальный округ Волковское, ул Боровая, д. 55 к. 3 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_borovaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_bugry_nizhnyaya",
+  "region": "Санкт-Петербург",
+  "name": "Бугры — Нижняя",
+  "system": "FRESH_GRC_СПБ_БУГРЫ_НИЖНЯЯ",
+  "address": "188660, Ленинградская область, м.р-н Всеволожский, г.п. Бугровское, г. Бугры, ул Нижняя, стр. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_bugry_nizhnyaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_novye_gorizonty",
+  "region": "Санкт-Петербург",
+  "name": "Бугры — Тихая",
+  "system": "FRESH_GRC_СПБ_НОВЫЕ_ГОРИЗОНТЫ",
+  "address": "188660, Ленинградская область, м.р-н Всеволожский, г.п. Бугровское, г. Бугры, ул Тихая, стр. 9 к. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_novye_gorizonty.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_budapeshtskaya",
+  "region": "Санкт-Петербург",
+  "name": "Будапештская",
+  "system": "FRESH_GRC_СПБ_БУДАПЕШТСКАЯ",
+  "address": "192239, г Санкт-Петербург, вн.тер.г. муниципальный округ Георгиевский, ул Будапештская, д. 53 лит. А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_budapeshtskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_vadima_shefnera",
+  "region": "Санкт-Петербург",
+  "name": "Вадима Шефнера",
+  "system": "FRESH_GRC_СПБ_ВАДИМА_ШЕФНЕРА",
+  "address": "199225, г Санкт-Петербург, вн.тер.г. муниципальный округ Гавань, ул Вадима Шефнера, д. 4 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_vadima_shefnera.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_shushary_valdayskaya",
+  "region": "Санкт-Петербург",
+  "name": "Валдайская",
+  "system": "FRESH_GRC_СПБ_ШУШАРЫ_ВАЛДАЙСКАЯ",
+  "address": "196626, г. Санкт-Петербург, п. Шушары, Пушкинский район, Валдайская ул., д. 2, к. 1, стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_shushary_valdayskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_oazis",
+  "region": "Санкт-Петербург",
+  "name": "Ветеранов — Оазис",
+  "system": "FRESH_GRC_СПБ_ОАЗИС",
+  "address": "198264, Санкт-Петербург, пр-т Ветеранов, д. 147, лит. А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_prospekt_veteranov",
+  "region": "Санкт-Петербург",
+  "name": "Ветеранов",
+  "system": "FRESH_GRC_СПБ_ПРОСПЕКТ_ВЕТЕРАНОВ",
+  "address": "198255, Санкт-Петербург, пр-т Ветеранов, д. 53/56, лит. И",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_prospekt_veteranov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "20_fresh_max_spb_volhonskiy",
+  "region": "Санкт-Петербург",
+  "name": "Волхонский",
+  "system": "20 FRESH_MAX_СПБ_ВОЛХОНСКИЙ",
+  "address": "Санкт-Петербург, территория Южная часть промзоны Горелово, улица Понссе, 20",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_aleksandrovskaya",
+  "region": "Санкт-Петербург",
+  "name": "Выборгское",
+  "system": "FRESH_GRC_СПБ_АЛЕКСАНДРОВСКАЯ",
+  "address": "194356, г Санкт-Петербург, вн.тер.г. муниципальный округ Шувалово-Озерки, ш Выборгское, д. 3 к. 2 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_aleksandrovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_aviakonstruktorov",
+  "region": "Санкт-Петербург",
+  "name": "Долгоозёрная",
+  "system": "FRESH_GRC_СПБ_АВИАКОНСТРУКТОРОВ",
+  "address": "197373, г Санкт-Петербург, вн.тер.г. муниципальный округ Юнтолово, ул Долгоозёрная, д. 12 к. 1 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_aviakonstruktorov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_dunayskiy",
+  "region": "Санкт-Петербург",
+  "name": "Дунайский проспект",
+  "system": "FRESH_GRC_СПБ_ДУНАЙСКИЙ",
+  "address": "196158, СПБ, Дунайский проспект, д. 21 с.1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_dunayskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_svirskaya",
+  "region": "Санкт-Петербург",
+  "name": "Дунайский",
+  "system": "FRESH_GRC_СПБ_СВИРСКАЯ",
+  "address": "196158, г Санкт-Петербург, вн.тер.г. муниципальный округ Гагаринское, пр-кт Дунайский, д. 27 к. 1 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_svirskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_dybenko",
+  "region": "Санкт-Петербург",
+  "name": "Дыбенко 1к2",
+  "system": "FRESH_GRC_СПБ_ДЫБЕНКО",
+  "address": "193230, Россия, Санкт-Петербург, муниципальный округ № 54 вн.тер.г., Дыбенко ул, д. 1, к. 2, стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_dybenko.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_dalnevostochnyy",
+  "region": "Санкт-Петербург",
+  "name": "Дыбенко 7к4",
+  "system": "FRESH_GRC_СПБ_ДАЛЬНЕВОСТОЧНЫЙ",
+  "address": "193230, г Санкт-Петербург, вн.тер.г. муниципальный округ № 54, ул Дыбенко, д. 7 к. 4 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_dalnevostochnyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_grazhdanskiy",
+  "region": "Санкт-Петербург",
+  "name": "Гражданский проспект",
+  "system": "FRESH_GRC_СПБ_ГРАЖДАНСКИЙ",
+  "address": "195257, г. Санкт-Петербург, Гражданский проспект, д. 75, к. 7, стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_grazhdanskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_murino_grafskaya",
+  "region": "Санкт-Петербург",
+  "name": "Графская",
+  "system": "FRESH_GRC_СПБ_МУРИНО_ГРАФСКАЯ",
+  "address": "188677, Ленинградская область, м.р-н Всеволожский, гп Мурино, ул. Графская, д. 6, к. 3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_murino_grafskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_demyana_bednogo",
+  "region": "Санкт-Петербург",
+  "name": "Демьяна Бедного",
+  "system": "FRESH_GRC_СПБ_ДЕМЬЯНА_БЕДНОГО",
+  "address": "195274, г Санкт-Петербург, вн.тер.г. муниципальный округ Полюстрово, ул. Демьяна Бедного, д. 18, к. 1, литера А.",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_demyana_bednogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_zagrebskiy_bulvar",
+  "region": "Санкт-Петербург",
+  "name": "Загребский 45 литера А",
+  "system": "FRESH_GRC_СПБ_ЗАГРЕБСКИЙ_БУЛЬВАР",
+  "address": "192283, г Санкт-Петербург, вн.тер.г. муниципальный округ Балканский, б-р Загребский, д. 45 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_zagrebskiy_bulvar.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_zanevskiy",
+  "region": "Санкт-Петербург",
+  "name": "Заневский",
+  "system": "FRESH_GRC_СПБ_ЗАНЕВСКИЙ",
+  "address": "195112, г Санкт-Петербург, вн.тер.г. муниципальный округ Малая Охта, пр-кт Заневский, д. 65 к. 5 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_zanevskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_industrialnyy",
+  "region": "Санкт-Петербург",
+  "name": "Индустриальный",
+  "system": "FRESH_GRC_СПБ_ИНДУСТРИАЛЬНЫЙ",
+  "address": "195279, г Санкт-Петербург, вн.тер.г. муниципальный округ Пороховые, пр-кт Индустриальный, д. 24 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_industrialnyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_rybatskoe_karavaevskaya",
+  "region": "Санкт-Петербург",
+  "name": "Караваевская",
+  "system": "FRESH_GRC_СПБ_РЫБАЦКОЕ_КАРАВАЕВСКАЯ",
+  "address": "192177, г Санкт-Петербург, вн.тер.г. муниципальный округ Рыбацкое, ул Караваевская, д. 24 к. 1 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_rybatskoe_karavaevskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_komendantskiy",
+  "region": "Санкт-Петербург",
+  "name": "Комендантский проспект, 9",
+  "system": "FRESH_GRC_СПБ_КОМЕНДАНТСКИЙ",
+  "address": "197349, г Санкт-Петербург, пр-кт Комендантский, д. 9 к. 2 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_komendantskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_dolgoozernaya",
+  "region": "Санкт-Петербург",
+  "name": "Комендантский проспект, 24",
+  "system": "FRESH_GRC_СПБ_ДОЛГООЗЕРНАЯ",
+  "address": "197372, г Санкт-Петербург, вн.тер.г. муниципальный округ Озеро Долгое, пр-кт Комендантский, д. 24 к. 1 литера Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_dolgoozernaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_kompozitorov",
+  "region": "Санкт-Петербург",
+  "name": "Композиторов",
+  "system": "FRESH_GRC_СПБ_КОМПОЗИТОРОВ",
+  "address": "194355, г Санкт-Петербург, вн.тер.г. муниципальный округ Шувалово-Озерки, ул Композиторов, д. 32 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_kompozitorov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_kotina",
+  "region": "Санкт-Петербург",
+  "name": "Котина",
+  "system": "FRESH_GRC_СПБ_КОТИНА",
+  "address": "198332, г Санкт-Петербург, вн.тер.г. муниципальный округ Юго-Запад, ул Котина, д. 2 к. 3 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_kotina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_krasnoputilovskaya",
+  "region": "Санкт-Петербург",
+  "name": "Краснопутиловская улица",
+  "system": "FRESH_GRC_СПБ_КРАСНОПУТИЛОВСКАЯ",
+  "address": "196240, г Санкт-Петербург, вн.тер.г. муниципальный округ Новоизмайловское, ул Краснопутиловская, д. 111 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_krasnoputilovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_krasnogo_tekstilschika",
+  "region": "Санкт-Петербург",
+  "name": "Красного Текстильщика",
+  "system": "FRESH_GRC_СПБ_КРАСНОГО_ТЕКСТИЛЬЩИКА",
+  "address": "191124, г Санкт-Петербург, вн.тер.г. муниципальный округ Смольнинское, ул Красного Текстильщика, д. 10-12 литера С",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_krasnogo_tekstilschika.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_kudrovo_prazhskaya",
+  "region": "Санкт-Петербург",
+  "name": "Кудрово — Пражская",
+  "system": "FRESH_GRC_СПБ_КУДРОВО_ПРАЖСКАЯ",
+  "address": "188692, г. Санкт-Петербург, Кудрово, ул. Пражская улица, д. 16",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_kudrovo_prazhskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_kudrovo_oblastnaya",
+  "region": "Санкт-Петербург",
+  "name": "Кудрово — Ленинградская",
+  "system": "FRESH_GRC_СПБ_КУДРОВО_ОБЛАСТНАЯ",
+  "address": "188691, Ленинградская область, м.р-н Всеволожский, г.п. Заневское, г. Кудрово, мкр Новый Оккервиль, ул Ленинградская, д. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_kudrovo_oblastnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_spb_ligovskiy",
+  "region": "Санкт-Петербург",
+  "name": "РЦ Лиговский",
+  "system": "FRESH_MAX_СПБ_ЛИГОВСКИЙ",
+  "address": "Санкт-Петербург, Лиговский проспект, 254 литер В",
+  "status": "ok",
+  "source": "документ Ozon «Баллы на Дарксторах Фреш», п. 1.6 («DarkStore Санкт-Петербург»)",
+  "how": "Терра Логистик",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_yuzhno_primorskiy",
+  "region": "Санкт-Петербург",
+  "name": "Ленинский проспект",
+  "system": "FRESH_GRC_СПБ_ЮЖНО-ПРИМОРСКИЙ",
+  "address": "198335, Санкт-Петербург, Ленинский проспект, д. 66, к. 2, стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_yuzhno_primorskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_spb_logopark",
+  "region": "Санкт-Петербург",
+  "name": "Логопарк",
+  "system": "FRESH_MAX_СПБ_ЛОГОПАРК",
+  "address": "Санкт-Петербург, проспект Обуховской Обороны, 295 лит. А",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_malaya_buharestskaya",
+  "region": "Санкт-Петербург",
+  "name": "Малая Бухарестская",
+  "system": "FRESH_GRC_СПБ_МАЛАЯ_БУХАРЕСТСКАЯ",
+  "address": "192288, г Санкт-Петербург, вн.тер.г. муниципальный округ Александровский, ул Малая Бухарестская, д. 12 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_malaya_buharestskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_marshala_blyuhera",
+  "region": "Санкт-Петербург",
+  "name": "Маршала Блюхера",
+  "system": "FRESH_GRC_СПБ_МАРШАЛА_БЛЮХЕРА",
+  "address": "195197, г Санкт-Петербург, вн.тер.г. муниципальный округ Пискаревка, пр-кт Маршала Блюхера, д. 4 к. 1 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_marshala_blyuhera.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_marshala_zhukova",
+  "region": "Санкт-Петербург",
+  "name": "Маршала Жукова проспект, 78",
+  "system": "FRESH_GRC_СПБ_МАРШАЛА_ЖУКОВА",
+  "address": "198261, Санкт-Петербург, пр-т Маршала Жукова, д. 78, лит. А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_marshala_zhukova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_krasnoselskiy",
+  "region": "Санкт-Петербург",
+  "name": "Маршала Жукова проспект, 35",
+  "system": "FRESH_GRC_СПБ_КРАСНОСЕЛЬСКИЙ",
+  "address": "198332, Санкт-Петербург, пр-т Маршала Жукова, д. 35, к. 1, лит. А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_krasnoselskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_spb_mebelnaya",
+  "region": "Санкт-Петербург",
+  "name": "Мебельная",
+  "system": "FRESH_MAX_СПБ_МЕБЕЛЬНАЯ",
+  "address": "Санкт-Петербург, Мебельная улица, 5В",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "м. Старая Деревня. Въезд на машине запрещён, вход пешком со стороны Стародеревенской улицы, сказать охраннику, что в Ozon fresh",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_merkureva",
+  "region": "Санкт-Петербург",
+  "name": "Меркурьева",
+  "system": "FRESH_GRC_СПБ_МЕРКУРЬЕВА",
+  "address": "194363, г Санкт-Петербург, вн.тер.г. поселок Парголово, ул Меркурьева, д. 3 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_merkureva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_vasnetsovskiy",
+  "region": "Санкт-Петербург",
+  "name": "Муринская дорога",
+  "system": "FRESH_GRC_СПБ_ВАСНЕЦОВСКИЙ",
+  "address": "195273, г Санкт-Петербург, вн.тер.г. муниципальный округ Полюстрово, дор Муринская, д. 9 к. 2 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_vasnetsovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_schastlivaya",
+  "region": "Санкт-Петербург",
+  "name": "Народного Ополчения",
+  "system": "FRESH_GRC_СПБ_СЧАСТЛИВАЯ",
+  "address": "198216, г Санкт-Петербург, вн.тер.г. муниципальный округ Княжево, пр-кт Народного Ополчения, д. 22 литера П",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_schastlivaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_murino_novaya",
+  "region": "Санкт-Петербург",
+  "name": "Новая",
+  "system": "FRESH_GRC_СПБ_МУРИНО_НОВАЯ",
+  "address": "188669, Ленинградская область, г. Мурино, ул. Новая, д. 8",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_murino_novaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_sovremennikov",
+  "region": "Санкт-Петербург",
+  "name": "Новогорелово — Современников",
+  "system": "FRESH_GRC_СПБ_СОВРЕМЕННИКОВ",
+  "address": "188510, Ленинградская область, м.р-н Ломоносовский, г.п. Виллозское, п Новогорелово, ул Современников, д. 2А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_sovremennikov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_anninskoe_novosele",
+  "region": "Санкт-Петербург",
+  "name": "Новоселье — Красносельское",
+  "system": "FRESH_GRC_СПБ_АННИНСКОЕ_НОВОСЕЛЬЕ",
+  "address": "188507, Ленинградская область, м.р-н Ломоносовский, г.п. Аннинское, гп Новоселье, ш Красносельское, зд. 20",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_anninskoe_novosele.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_nogina",
+  "region": "Санкт-Петербург",
+  "name": "Ногина",
+  "system": "FRESH_GRC_СПБ_НОГИНА",
+  "address": "192029, г Санкт-Петербург, вн.тер.г. муниципальный округ Невская застава, пер Ногина, д. 3 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_nogina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_obvodnogo_kanala",
+  "region": "Санкт-Петербург",
+  "name": "Обводного канала набережная",
+  "system": "FRESH_GRC_СПБ_ОБВОДНОГО_КАНАЛА",
+  "address": "1190005,Санкт-Петербург, набережная Обводного канала, 118АУ",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_obvodnogo_kanala.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_berggolts",
+  "region": "Санкт-Петербург",
+  "name": "Ольги Берггольц",
+  "system": "FRESH_GRC_СПБ_БЕРГГОЛЬЦ",
+  "address": "192148, Санкт-Петербург, ул. Ольги Берггольц, д. 36, с. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_berggolts.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_telmana_almaz",
+  "region": "Санкт-Петербург",
+  "name": "Онежская 5 (Тельмана)",
+  "system": "FRESH_GRC_СПБ_ТЕЛЬМАНА_АЛМАЗ",
+  "address": "187032, Ленинградская область, город Тельмана, ул. Онежская, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_telmana_almaz.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_optikov",
+  "region": "Санкт-Петербург",
+  "name": "Оптиков",
+  "system": "FRESH_GRC_СПБ_ОПТИКОВ",
+  "address": "197345, г Санкт-Петербург, вн.тер.г. муниципальный округ № 65, ул Оптиков, д. 30 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_optikov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_ohtinskaya",
+  "region": "Санкт-Петербург",
+  "name": "Охтинская аллея",
+  "system": "FRESH_GRC_СПБ_ОХТИНСКАЯ",
+  "address": "188677, Ленинградская область, Всеволожский р-н, г. Мурино, Охтинская аллея, д. 18",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_ohtinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_zarechnaya",
+  "region": "Санкт-Петербург",
+  "name": "Парголово — Архитектора Белова",
+  "system": "FRESH_GRC_СПБ_ЗАРЕЧНАЯ",
+  "address": "194358, г Санкт-Петербург, вн.тер.г. поселок Парголово, ул Архитектора Белова, д. 6 к. 3 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_zarechnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_tihookeanskaya",
+  "region": "Санкт-Петербург",
+  "name": "Парголово — Тихоокеанская",
+  "system": "FRESH_GRC_СПБ_ТИХООКЕАНСКАЯ",
+  "address": "194294, г Санкт-Петербург, вн.тер.г. поселок Парголово, ул Тихоокеанская, д. 18 к. 2 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_tihookeanskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_garkavogo",
+  "region": "Санкт-Петербург",
+  "name": "Пограничника Гарькавого",
+  "system": "FRESH_GRC_СПБ_ГАРЬКАВОГО",
+  "address": "198259, г Санкт-Петербург, вн.тер.г. муниципальный округ Константиновское, ул Пограничника Гарькавого, д. 36 к. 7 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_garkavogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_polyustrovskiy",
+  "region": "Санкт-Петербург",
+  "name": "Полюстровский",
+  "system": "FRESH_GRC_СПБ_ПОЛЮСТРОВСКИЙ",
+  "address": "195197, г Санкт-Петербург, вн.тер.г. муниципальный округ Финляндский округ, пр-кт Полюстровский, д. 59 литера Й",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_polyustrovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_prosvescheniya",
+  "region": "Санкт-Петербург",
+  "name": "Просвещения проспект",
+  "system": "FRESH_GRC_СПБ_ПРОСВЕЩЕНИЯ",
+  "address": "194352, Санкт-Петербург, проспект Просвещения, д. 46к1 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_prosvescheniya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_tserkovnaya",
+  "region": "Санкт-Петербург",
+  "name": "Пушкин — Ленинградская",
+  "system": "FRESH_GRC_СПБ_ЦЕРКОВНАЯ",
+  "address": "196607, г Санкт-Петербург, вн.тер.г. город Пушкин, ул. Ленинградская, д. 57 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_tserkovnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_spb_raum_bugry",
+  "region": "Санкт-Петербург",
+  "name": "Раум Бугры",
+  "system": "FRESH_MAX_СПБ_РАУМ_БУГРЫ",
+  "address": "Ленинградская обл., Всеволожский р-н, д. Порошкино, КАД 23 км, стр. 2 лит. Б",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "СК RAUM Бугры",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_repninskaya",
+  "region": "Санкт-Петербург",
+  "name": "Репнинская 7",
+  "system": "FRESH_GRC_СПБ_РЕПНИНСКАЯ",
+  "address": "195067, г Санкт-Петербург, вн.тер.г. муниципальный округ Пискаревка, ул Репнинская, д. 7 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_repninskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_rustaveli",
+  "region": "Санкт-Петербург",
+  "name": "Руставели",
+  "system": "FRESH_GRC_СПБ_РУСТАВЕЛИ",
+  "address": "195273, г Санкт-Петербург, вн.тер.г. муниципальный округ Пискаревка, ул Руставели, д. 31 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_rustaveli.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_murino_ruchevskiy",
+  "region": "Санкт-Петербург",
+  "name": "Ручьевский",
+  "system": "FRESH_GRC_СПБ_МУРИНО_РУЧЬЕВСКИЙ",
+  "address": "188677, Ленинградская область, м.р-н Всеволожский, г.п. Муринское, г. Мурино, пр-кт Ручьевский, д. 5Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_murino_ruchevskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_savushkina",
+  "region": "Санкт-Петербург",
+  "name": "Савушкина",
+  "system": "FRESH_GRC_СПБ_САВУШКИНА",
+  "address": "197374, Санкт-Петербург, муниципальный округ № 65 вн.тер.г., Савушкина ул, д. 119, лит. А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_savushkina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_sevastyanova",
+  "region": "Санкт-Петербург",
+  "name": "Свеаборгская",
+  "system": "FRESH_GRC_СПБ_СЕВАСТЬЯНОВА",
+  "address": "196105, г Санкт-Петербург, вн.тер.г. муниципальный округ Московская застава, ул Свеаборгская, д. 10 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_sevastyanova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_tipanova",
+  "region": "Санкт-Петербург",
+  "name": "Типанова",
+  "system": "FRESH_GRC_СПБ_ТИПАНОВА",
+  "address": "196135, г Санкт-Петербург, вн.тер.г. муниципальный округ Гагаринское, ул Типанова, д. 21 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_tipanova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_tolubeevskiy",
+  "region": "Санкт-Петербург",
+  "name": "Толубеевский",
+  "system": "FRESH_GRC_СПБ_ТОЛУБЕЕВСКИЙ",
+  "address": "194363, г Санкт-Петербург, вн.тер.г. поселок Парголово, Толубеевский проезд, д. 8, к. 2, стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_tolubeevskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_torzhkovskaya",
+  "region": "Санкт-Петербург",
+  "name": "Торжковская",
+  "system": "FRESH_GRC_СПБ_ТОРЖКОВСКАЯ",
+  "address": "197342, г Санкт-Петербург, вн.тер.г. муниципальный округ Ланское, ул Торжковская, д. 11 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_torzhkovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_trudyaschihsya",
+  "region": "Санкт-Петербург",
+  "name": "Трудящихся",
+  "system": "FRESH_GRC_СПБ_ТРУДЯЩИХСЯ",
+  "address": "196657, г Санкт-Петербург, вн.тер.г. город Колпино, б-р Трудящихся, д. 16 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_trudyaschihsya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_nastavnikov",
+  "region": "Санкт-Петербург",
+  "name": "Ударников",
+  "system": "FRESH_GRC_СПБ_НАСТАВНИКОВ",
+  "address": "195279, г Санкт-Петербург, вн.тер.г. муниципальный округ Пороховые, пр-кт Ударников, д. 34 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_nastavnikov.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_finlyandskiy",
+  "region": "Санкт-Петербург",
+  "name": "Финляндский",
+  "system": "FRESH_GRC_СПБ_ФИНЛЯНДСКИЙ",
+  "address": "194044, г Санкт-Петербург, вн.тер.г. муниципальный округ Сампсониевское, пр-кт Финляндский, д. 4 литера А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_finlyandskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_hersonskaya",
+  "region": "Санкт-Петербург",
+  "name": "Херсонская",
+  "system": "FRESH_GRC_СПБ_ХЕРСОНСКАЯ",
+  "address": "191167, г Санкт-Петербург, вн.тер.г. муниципальный округ Смольнинское, ул Херсонская, д. 43/12 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_hersonskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_kudrovo_tsentralnaya",
+  "region": "Санкт-Петербург",
+  "name": "Центральная",
+  "system": "FRESH_GRC_СПБ_КУДРОВО_ЦЕНТРАЛЬНАЯ",
+  "address": "188692, Ленинградская область, м.р-н Всеволожский, г.п. Заневское, г. Кудрово, ул Центральная, д. 16а",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_kudrovo_tsentralnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_tsiolkovskogo",
+  "region": "Санкт-Петербург",
+  "name": "Циолковского",
+  "system": "FRESH_GRC_СПБ_ЦИОЛКОВСКОГО",
+  "address": "190020, Россия, Санкт-Петербург, муниципальный округ Екатерингофский вн.тер.г., ул. Циолковского, д. 10, лит. Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_tsiolkovskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_chudnovskogo",
+  "region": "Санкт-Петербург",
+  "name": "Чудновского",
+  "system": "FRESH_GRC_СПБ_ЧУДНОВСКОГО",
+  "address": "193312, Россия, Санкт-Петербург, муниципальный округ Правобережный вн.тер.г., ул. Чудновского, д. 6, к. 4, лит. Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_chudnovskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_spb_murino_lavriki",
+  "region": "Санкт-Петербург",
+  "name": "Шоссе в Лаврики",
+  "system": "FRESH_GRC_СПБ_МУРИНО_ЛАВРИКИ",
+  "address": "188678, Ленинградская область, м.р-н Всеволожский, г.п. Муринское, г. Мурино, ул Шоссе в Лаврики, д. 38",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_spb_murino_lavriki.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_adygeya_pervomayskaya",
+  "region": "Адыгея",
+  "name": "Первомайская 40",
+  "system": "FRESH_GRC_КДР_АДЫГЕЯ_ПЕРВОМАЙСКАЯ",
+  "address": "385140, Республика Адыгея (Адыгея), м.р-н Тахтамукайский, г.п. Яблоновское, пгт Яблоновский, ул Первомайская, д. 40",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_adygeya_pervomayskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_vlg_zemlyachki",
+  "region": "Волгоград",
+  "name": "Землячки",
+  "system": "FRESH_MAX_ВЛГ_ЗЕМЛЯЧКИ",
+  "address": "Волгоград, улица Землячки, 94",
+  "status": "ok",
+  "source": "2ГИС",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_ekb_libknehta",
+  "region": "Екатеринбург",
+  "name": "Карла Либкнехта",
+  "system": "FRESH_GRC_ЕКБ_ЛИБКНЕХТА",
+  "address": "620000, Свердловская область, г.о. город Екатеринбург, г Екатеринбург, ул Карла Либкнехта, д. 23",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_ekb_libknehta.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_ekb_akademika_semihatova",
+  "region": "Екатеринбург",
+  "name": "Краснолесья",
+  "system": "FRESH_GRC_ЕКБ_АКАДЕМИКА_СЕМИХАТОВА",
+  "address": "620110, Свердловская область, г.о. город Екатеринбург, г. Екатеринбург, ул. Краснолесья, стр. 12а",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_ekb_akademika_semihatova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_ekb_kultury",
+  "region": "Екатеринбург",
+  "name": "Культуры",
+  "system": "FRESH_GRC_ЕКБ_КУЛЬТУРЫ",
+  "address": "620039, Свердловская область, г.о. город Екатеринбург, г Екатеринбург, ул Культуры, д. 25",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_ekb_kultury.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_ekb_omskaya",
+  "region": "Екатеринбург",
+  "name": "Уральская",
+  "system": "FRESH_GRC_ЕКБ_ОМСКАЯ",
+  "address": "620041, Свердловская область, г.о. город Екатеринбург, г. Екатеринбург, ул. Уральская, д. 61",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_ekb_omskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_ekb_olhovskiy_prud",
+  "region": "Екатеринбург",
+  "name": "Черепанова",
+  "system": "FRESH_GRC_ЕКБ_ОЛЬХОВСКИЙ_ПРУД",
+  "address": "Свердловская область, г.о. город Екатеринбург, г. Екатеринбург, ул. Черепанова, стр. 25",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_ekb_olhovskiy_prud.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_kzn_gorkovskiy",
+  "region": "Казань",
+  "name": "Горьковский",
+  "system": "FRESH_MAX_КЗН_ГОРЬКОВСКИЙ",
+  "address": "Казань, Горьковское шоссе, 53г/2",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_max_kzn_orenburgskiy",
+  "region": "Казань",
+  "name": "Оренбургский",
+  "system": "FRESH_MAX_КЗН_ОРЕНБУРГСКИЙ",
+  "address": "Казань, Оренбургский тракт, 160к2",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_max_wms_kos_volzhskaya",
+  "region": "Кострома",
+  "name": "Кострома",
+  "system": "FRESH_MAX_WMS_КОС_ВОЛЖСКАЯ",
+  "address": "Кострома, 2-я Волжская улица, 8",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_uritskogo",
+  "region": "Краснодарский край",
+  "name": "1-й Линии",
+  "system": "FRESH_GRC_КДР_УРИЦКОГО",
+  "address": "350062, Краснодарский край, г.о. город Краснодар, г Краснодар, проезд 1-й Линии, д. 44/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_uritskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_tselinogradskaya",
+  "region": "Краснодарский край",
+  "name": "3-я Целиноградская",
+  "system": "FRESH_GRC_КДР_ЦЕЛИНОГРАДСКАЯ",
+  "address": "350031, Краснодарский край, г.о. город Краснодар, г Краснодар, ул 3-я Целиноградская, д. 11",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_tselinogradskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_bulvar_evskina",
+  "region": "Краснодарский край",
+  "name": "70-летия Октября 8А",
+  "system": "FRESH_GRC_КДР_БУЛЬВАР_ЕВСКИНА",
+  "address": "350089, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. 70-летия Октября, д. 8А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_bulvar_evskina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_saprunova",
+  "region": "Краснодарский край",
+  "name": "Александра Сапрунова",
+  "system": "FRESH_GRC_КДР_САПРУНОВА",
+  "address": "350038, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. генерал-лейтенанта Александра Сапрунова, д. 35",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_saprunova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_bogatyrskaya",
+  "region": "Краснодарский край",
+  "name": "Богатырская",
+  "system": "FRESH_GRC_КДР_БОГАТЫРСКАЯ",
+  "address": "350902, Краснодарский край, г.о. город Краснодар, г Краснодар, ж/р Новознаменский, ул Богатырская, д. 64 и 350902, Краснодарский край, г.о. город Краснодар, г Краснодар, ж/р Новознаменский, ул Богатырская, д. 64/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_bogatyrskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_bolotnikova",
+  "region": "Краснодарский край",
+  "name": "Болотникова",
+  "system": "FRESH_GRC_КДР_БОЛОТНИКОВА",
+  "address": "350001, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Болотникова, д. 24/4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_bolotnikova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_bulgakova",
+  "region": "Краснодарский край",
+  "name": "Булгакова",
+  "system": "FRESH_GRC_КДР_БУЛГАКОВА",
+  "address": "350005, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Григория Булгакова, д. 11 стр. В",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_bulgakova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_poltavskaya",
+  "region": "Краснодарский край",
+  "name": "Волжская",
+  "system": "FRESH_GRC_СОЧИ_ПОЛТАВСКАЯ",
+  "address": "354053, Краснодарский край, г.о. город-курорт Сочи, г Сочи, ул Волжская, д. 34/4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_poltavskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_gavrilova",
+  "region": "Краснодарский край",
+  "name": "Гаврилова П.М.",
+  "system": "FRESH_GRC_КДР_ГАВРИЛОВА",
+  "address": "350020, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Гаврилова П.М., д. 88",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_gavrilova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_gamburgskaya",
+  "region": "Краснодарский край",
+  "name": "Гамбургская",
+  "system": "FRESH_GRC_КДР_ГАМБУРГСКАЯ",
+  "address": "350053, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Гамбургская, д. 16",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_gamburgskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_gidrostroiteley",
+  "region": "Краснодарский край",
+  "name": "Гидростроителей",
+  "system": "FRESH_GRC_КДР_ГИДРОСТРОИТЕЛЕЙ",
+  "address": "350065, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Гидростроителей, д. 61",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_gidrostroiteley.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_esaulko",
+  "region": "Краснодарский край",
+  "name": "Дмитрия Есаулко",
+  "system": "FRESH_GRC_КДР_ЕСАУЛКО",
+  "address": "350053, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Дмитрия Есаулко, з/у 59",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_esaulko.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_dombayskaya",
+  "region": "Краснодарский край",
+  "name": "Домбайская",
+  "system": "FRESH_GRC_КДР_ДОМБАЙСКАЯ",
+  "address": "350022, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Домбайская, д. 8",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_dombayskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_donskaya",
+  "region": "Краснодарский край",
+  "name": "Донская",
+  "system": "FRESH_GRC_СОЧИ_ДОНСКАЯ",
+  "address": "354068, Краснодарский край, г.о. город-курорт Сочи, г Сочи, ул Донская, д. 27Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_donskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_perehodnaya",
+  "region": "Краснодарский край",
+  "name": "Железнодорожная",
+  "system": "FRESH_GRC_КДР_ПЕРЕХОДНАЯ",
+  "address": "350033, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Железнодорожная, д. 31",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_perehodnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_zapadnyy_obhod",
+  "region": "Краснодарский край",
+  "name": "Западный Обход",
+  "system": "FRESH_GRC_КДР_ЗАПАДНЫЙ_ОБХОД",
+  "address": "Краснодарский край, г.о. город Краснодар, г Краснодар, ул Западный Обход, д. 41/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_zapadnyy_obhod.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_krp_zaschitnikov_kavkaza",
+  "region": "Краснодарский край",
+  "name": "Защитников Кавказа",
+  "system": "FRESH_GRC_СОЧИ_КРП_ЗАЩИТНИКОВ_КАВКАЗА",
+  "address": "354392, Краснодарский край, г.о. город-курорт Сочи, пгт Красная Поляна, ул Защитников Кавказа, д. 96",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_krp_zaschitnikov_kavkaza.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_artezianskaya",
+  "region": "Краснодарский край",
+  "name": "Знаменского",
+  "system": "FRESH_GRC_КДР_АРТЕЗИАНСКАЯ",
+  "address": "350065, Краснодарский край, г.о. город Краснодар, г Краснодар, пр-кт им. писателя Знаменского, д. 3/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_artezianskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_iskry",
+  "region": "Краснодарский край",
+  "name": "Искры",
+  "system": "FRESH_GRC_СОЧИ_ИСКРЫ",
+  "address": "354066, Краснодарский край, г.о. город-курорт Сочи, г Сочи, р-н Адлерский, ул Искры, д. 64В",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_iskry.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_baybakova",
+  "region": "Краснодарский край",
+  "name": "Карякина",
+  "system": "FRESH_GRC_КДР_БАЙБАКОВА",
+  "address": "350072, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Карякина, д. 10/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_baybakova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_rossinskogo",
+  "region": "Краснодарский край",
+  "name": "Кирилла Россинского",
+  "system": "FRESH_GRC_КДР_РОССИНСКОГО",
+  "address": "350022, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Кирилла Россинского, д. 62",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_rossinskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_rashpilevskaya",
+  "region": "Краснодарский край",
+  "name": "Комсомольская",
+  "system": "FRESH_GRC_КДР_РАШПИЛЕВСКАЯ",
+  "address": "​350063, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Комсомольская, д. 40",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_rashpilevskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_korenovskaya",
+  "region": "Краснодарский край",
+  "name": "Кореновская",
+  "system": "FRESH_GRC_КДР_КОРЕНОВСКАЯ",
+  "address": "350005, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Кореновская, д. 10",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_korenovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_kdr_media_plaza",
+  "region": "Краснодарский край",
+  "name": "Медиа Плаза",
+  "system": "FRESH_MAX_КДР_МЕДИА_ПЛАЗА",
+  "address": "Краснодар, улица Стасова, 178/2",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "ТЦ «Медиа Плаза»",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_minskaya",
+  "region": "Краснодарский край",
+  "name": "Минская",
+  "system": "FRESH_GRC_КДР_МИНСКАЯ",
+  "address": "350004, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Минская, д. 120/7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_minskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_novogornaya",
+  "region": "Краснодарский край",
+  "name": "Новогорная",
+  "system": "FRESH_GRC_СОЧИ_НОВОГОРНАЯ",
+  "address": "354340, Краснодарский край, ф.т. Сириус, пгт. Сириус, ул Новогорная, д. 1А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_novogornaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_parizhskaya",
+  "region": "Краснодарский край",
+  "name": "Очаковская",
+  "system": "FRESH_GRC_КДР_ПАРИЖСКАЯ",
+  "address": "350087, Краснодарский край, г.о. город Краснодар, п Российский, ул Очаковская, д. 24",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_parizhskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_parallelnaya",
+  "region": "Краснодарский край",
+  "name": "Параллельная",
+  "system": "FRESH_GRC_СОЧИ_ПАРАЛЛЕЛЬНАЯ",
+  "address": "354057, Краснодарский край, г.о. город-курорт Сочи, г Сочи, ул Параллельная, д. 10",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_parallelnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_zhukovskogo",
+  "region": "Краснодарский край",
+  "name": "Первомайская",
+  "system": "FRESH_GRC_КДР_ЖУКОВСКОГО",
+  "address": "350901, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Первомайская, д. 69",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_zhukovskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_metalnikova",
+  "region": "Краснодарский край",
+  "name": "Петра Метальникова",
+  "system": "FRESH_GRC_КДР_МЕТАЛЬНИКОВА",
+  "address": "350087, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Петра Метальникова, д. 28 стр. А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_metalnikova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_piterskaya",
+  "region": "Краснодарский край",
+  "name": "Питерская",
+  "system": "FRESH_GRC_КДР_ПИТЕРСКАЯ",
+  "address": "350005, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Питерская, д. 38/3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_piterskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_plastunskaya",
+  "region": "Краснодарский край",
+  "name": "Пластунская",
+  "system": "FRESH_GRC_СОЧИ_ПЛАСТУНСКАЯ",
+  "address": "354003, Краснодарский край, г.о. город-курорт Сочи, г Сочи, ул Пластунская, д. 108",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_plastunskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_kdr_ponomarenko",
+  "region": "Краснодарский край",
+  "name": "Пономаренко",
+  "system": "FRESH_MAX_КДР_ПОНОМАРЕНКО",
+  "address": "Краснодар, улица имени Григория Пономаренко, 41",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "ТЦ «Аллея». Остановки «ЖК Лучший» или «ЖК Времена года», через дворы к ТЦ «Аллея» (во дворах указатели)",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_prirodnaya",
+  "region": "Краснодарский край",
+  "name": "Природная",
+  "system": "FRESH_GRC_КДР_ПРИРОДНАЯ",
+  "address": "350055, Краснодарский край, г.о. город Краснодар, п Знаменский, ул Природная, д. 10Б к. 21",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_prirodnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_repina",
+  "region": "Краснодарский край",
+  "name": "Репина",
+  "system": "FRESH_GRC_КДР_РЕПИНА",
+  "address": "350090, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Репина, д. 10",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_repina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_romashek",
+  "region": "Краснодарский край",
+  "name": "Ромашек",
+  "system": "FRESH_GRC_СОЧИ_РОМАШЕК",
+  "address": "354340, Краснодарский край, г.о. город-курорт Сочи, г Сочи, р-н Адлерский, ул Ромашек, д. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_romashek.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_musorgskogo",
+  "region": "Краснодарский край",
+  "name": "Российская",
+  "system": "FRESH_GRC_КДР_МУСОРГСКОГО",
+  "address": "350087, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Российская, з/у 267Д",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_musorgskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_sormovskaya",
+  "region": "Краснодарский край",
+  "name": "Селезнева",
+  "system": "FRESH_GRC_КДР_СОРМОВСКАЯ",
+  "address": "350058, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Селезнева, д. 191/2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_sormovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_selezneva",
+  "region": "Краснодарский край",
+  "name": "Селезнева 2\\5",
+  "system": "FRESH_GRC_КДР_СЕЛЕЗНЕВА",
+  "address": "350075, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Селезнева, д. 2/5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_selezneva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_izumrudnaya",
+  "region": "Краснодарский край",
+  "name": "Троицкая",
+  "system": "FRESH_GRC_СОЧИ_ИЗУМРУДНАЯ",
+  "address": "354382, Краснодарский край, г.о. город-курорт Сочи, г Сочи, р-н Адлерский внутригородской, ул Троицкая, д. 78А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_izumrudnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_turgeneva",
+  "region": "Краснодарский край",
+  "name": "Тургенева 140/1",
+  "system": "FRESH_GRC_КДР_ТУРГЕНЕВА",
+  "address": "350078, Краснодарский край, г.о. город Краснодар, г Краснодар, ул им. Тургенева, д. 140/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_turgeneva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_uralskaya",
+  "region": "Краснодарский край",
+  "name": "Уральская 152/2",
+  "system": "FRESH_GRC_КДР_УРАЛЬСКАЯ",
+  "address": "350080, Краснодарский край, г.о. город Краснодар, г Краснодар, ул Уральская, д. 152/2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_uralskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_uspenka",
+  "region": "Краснодарский край",
+  "name": "Успенка 2/15",
+  "system": "FRESH_GRC_СОЧИ_УСПЕНКА",
+  "address": "354207 Краснодарский край, городской округ город-курорт Сочи, город Сочи, территория Чаевод квартал Успенка ЖСТ, дом 2/15",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_kdr_fadeeva",
+  "region": "Краснодарский край",
+  "name": "Фадеева 234",
+  "system": "FRESH_GRC_КДР_ФАДЕЕВА",
+  "address": "350910, Краснодарский край, г.о. город Краснодар, г Краснодар, тер. Пашковский жилой массив, ул им. Фадеева, д. 234",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_kdr_fadeeva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_nbch_menzelinskiy",
+  "region": "Набережные Челны",
+  "name": "Набережные Челны",
+  "system": "FRESH_MAX_НБЧ_МЕНЗЕЛИНСКИЙ",
+  "address": "Набережные Челны, Мензелинский тракт, 35",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "ТЦ «Шелковый путь»",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_avtozavoda",
+  "region": "Нижний Новгород",
+  "name": "Автозавода",
+  "system": "FRESH_GRC_НИНО_АВТОЗАВОДА",
+  "address": "Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, мкр 6-й, д. 9А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_avtozavoda.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_lindovskaya",
+  "region": "Нижний Новгород",
+  "name": "Березовская",
+  "system": "FRESH_GRC_НИНО_ЛИНДОВСКАЯ",
+  "address": "603157, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, ул Березовская, д. 104Г",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_lindovskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_usievicha",
+  "region": "Нижний Новгород",
+  "name": "Заречный",
+  "system": "FRESH_GRC_НИНО_УСИЕВИЧА",
+  "address": "Нижегородская область, г.о. город Нижний Новгород, г. Нижний Новгород, б-р Заречный, д. 3В",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_usievicha.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_kazanskoe_shosse",
+  "region": "Нижний Новгород",
+  "name": "Казанское шоссе",
+  "system": "FRESH_GRC_НИНО_КАЗАНСКОЕ_ШОССЕ",
+  "address": "603163, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, ш Казанское, д. 6",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_kazanskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_krasnodontsev",
+  "region": "Нижний Новгород",
+  "name": "Краснодонцев",
+  "system": "FRESH_GRC_НИНО_КРАСНОДОНЦЕВ",
+  "address": "603111, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, ул Краснодонцев, д. 10",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_krasnodontsev.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_marshala_voronova",
+  "region": "Нижний Новгород",
+  "name": "Маршала Воронова",
+  "system": "FRESH_GRC_НИНО_МАРШАЛА_ВОРОНОВА",
+  "address": "603074, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, ул Маршала Воронова, д. 1А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_marshala_voronova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_prospekt_gagarina",
+  "region": "Нижний Новгород",
+  "name": "Маршала Жукова",
+  "system": "FRESH_GRC_НИНО_ПРОСПЕКТ_ГАГАРИНА",
+  "address": "603107, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, пл Маршала Жукова, д. 7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_prospekt_gagarina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_mendeleeva",
+  "region": "Нижний Новгород",
+  "name": "Менделеева",
+  "system": "FRESH_GRC_НИНО_МЕНДЕЛЕЕВА",
+  "address": "603011, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, ул Менделеева, д. 15",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_mendeleeva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_monchegorskaya",
+  "region": "Нижний Новгород",
+  "name": "Мончегорская",
+  "system": "FRESH_GRC_НИНО_МОНЧЕГОРСКАЯ",
+  "address": "603142, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, ул Мончегорская, д. 15А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_monchegorskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_nizhegorodskaya",
+  "region": "Нижний Новгород",
+  "name": "Нижегородская",
+  "system": "FRESH_GRC_НИНО_НИЖЕГОРОДСКАЯ",
+  "address": "603000, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, ул Нижегородская, д. 5",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_nizhegorodskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_wms_nino_pecherskiy",
+  "region": "Нижний Новгород",
+  "name": "Нижне-Печерская",
+  "system": "FRESH_MAX_WMS_НИНО_ПЕЧЕРСКИЙ",
+  "address": "Нижний Новгород, Нижне-Печёрская улица, 18",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_sovetskaya",
+  "region": "Нижний Новгород",
+  "name": "Советская",
+  "system": "FRESH_GRC_НИНО_СОВЕТСКАЯ",
+  "address": "603106, Нижегородская область, г.о. город Нижний Новгород, г Нижний Новгород, пл Советская, д. 7",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_sovetskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_nino_dzerzhinsk_sverdlova",
+  "region": "Нижний Новгород",
+  "name": "Циолковского",
+  "system": "FRESH_GRC_НИНО_ДЗЕРЖИНСК_СВЕРДЛОВА",
+  "address": "606033, Нижегородская область, г.о. город Дзержинск, г Дзержинск, пр-кт Циолковского, д. 79",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_nino_dzerzhinsk_sverdlova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_wms_nsk_koroleva",
+  "region": "Новосибирск",
+  "name": "Новосибирск",
+  "system": "FRESH_MAX_WMS_НСК_КОРОЛЕВА",
+  "address": "Новосибирск, улица Королёва, 40к33",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "м. «Берёзовая роща» (выход №3), до остановки «Королёва» или «Радиоколледж», дальше пешком около 1,2 км",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_pem_borchaninova",
+  "region": "Пермь",
+  "name": "Борчанинова",
+  "system": "FRESH_GRC_ПЕМ_БОРЧАНИНОВА",
+  "address": "614068, Пермский край, г.о. Пермский, г. Пермь, ул. Борчанинова, д. 13",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_pem_borchaninova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_pem_lasvinskaya",
+  "region": "Пермь",
+  "name": "Ласьвинская",
+  "system": "FRESH_GRC_ПЕМ_ЛАСЬВИНСКАЯ",
+  "address": "614101, Пермский край, г.о. Пермский, г. Пермь, ул. Ласьвинская, д. 22",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_pem_lasvinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_pem_lebedeva",
+  "region": "Пермь",
+  "name": "Лебедева",
+  "system": "FRESH_GRC_ПЕМ_ЛЕБЕДЕВА",
+  "address": "614107, Пермский край, г.о. Пермский, г. Пермь, ул. Лебедева, д. 34",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_pem_lebedeva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_pem_yursha",
+  "region": "Пермь",
+  "name": "Юрша",
+  "system": "FRESH_GRC_ПЕМ_ЮРША",
+  "address": "614051, Пермский край, г.о. Пермский, г. Пермь, ул. Юрша, д. 86",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_pem_yursha.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_listopadova",
+  "region": "Ростов-на-Дону",
+  "name": "1-я линия",
+  "system": "FRESH_GRC_РСТ_ЛИСТОПАДОВА",
+  "address": "344019, Ростовская область, г.о. город Ростов-на-Дону, г. Ростов-на-Дону, ул. 1-я линия, влд. 74/95",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_listopadova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_koltsevaya",
+  "region": "Ростов-на-Дону",
+  "name": "3-я Кольцевая",
+  "system": "FRESH_GRC_РСТ_КОЛЬЦЕВАЯ",
+  "address": "Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул 3-я Кольцевая, зд. 2/2",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_koltsevaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_kamenogorskaya",
+  "region": "Ростов-на-Дону",
+  "name": "40 лет Победы",
+  "system": "FRESH_GRC_РСТ_КАМЕНОГОРСКАЯ",
+  "address": "344111, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, пр-кт 40-летия Победы, зд. 290",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_kamenogorskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_razvilka",
+  "region": "Ростов-на-Дону",
+  "name": "Бульвар Героев СВО",
+  "system": "FRESH_GRC_РСТ_РАЗВИЛКА",
+  "address": "Ростовская область, г.о. город Ростов-на-Дону, г. Ростов-на-Дону, б-р Героев СВО, д. 5 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_razvilka.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_novopolotskaya",
+  "region": "Ростов-на-Дону",
+  "name": "Вологодская",
+  "system": "FRESH_GRC_РСТ_НОВОПОЛОЦКАЯ",
+  "address": "344114, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Вологодская, д. 32",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_novopolotskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_dneprovskiy",
+  "region": "Ростов-на-Дону",
+  "name": "Днепровский",
+  "system": "FRESH_GRC_РСТ_ДНЕПРОВСКИЙ",
+  "address": "344065, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, пер Днепровский, зд. 110",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_dneprovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_dolomanovskiy",
+  "region": "Ростов-на-Дону",
+  "name": "Доломановский",
+  "system": "FRESH_GRC_РСТ_ДОЛОМАНОВСКИЙ",
+  "address": "344013, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, пер Доломановский, зд. 163",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_dolomanovskiy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_zorge",
+  "region": "Ростов-на-Дону",
+  "name": "Ерёменко 54А",
+  "system": "FRESH_GRC_РСТ_ЗОРГЕ",
+  "address": "344015, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Еременко, зд. 54а",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_zorge.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_garnizonnyy",
+  "region": "Ростов-на-Дону",
+  "name": "Ерёменко 89р",
+  "system": "FRESH_GRC_РСТ_ГАРНИЗОННЫЙ",
+  "address": "Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Еременко, зд. 89р",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_garnizonnyy.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_rst_zapadnyy",
+  "region": "Ростов-на-Дону",
+  "name": "Западный",
+  "system": "FRESH_MAX_РСТ_ЗАПАДНЫЙ",
+  "address": "Ростов-на-Дону, улица Пескова, 1с1",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_klubnaya",
+  "region": "Ростов-на-Дону",
+  "name": "Клубная",
+  "system": "FRESH_GRC_РСТ_КЛУБНАЯ",
+  "address": "Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Клубная, зд. 19а",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_klubnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_temernik",
+  "region": "Ростов-на-Дону",
+  "name": "Королева",
+  "system": "FRESH_GRC_РСТ_ТЕМЕРНИК",
+  "address": "344096, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, пр-кт Королева, зд. 1д",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_temernik.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_malinovskogo",
+  "region": "Ростов-на-Дону",
+  "name": "Малиновского",
+  "system": "FRESH_GRC_РСТ_МАЛИНОВСКОГО",
+  "address": "344091, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Малиновского, д. 28б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_malinovskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_narimanova",
+  "region": "Ростов-на-Дону",
+  "name": "Нариманова",
+  "system": "FRESH_GRC_РСТ_НАРИМАНОВА",
+  "address": "344068, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Нариманова, зд. 23/1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_narimanova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_platova",
+  "region": "Ростов-на-Дону",
+  "name": "Платова",
+  "system": "FRESH_GRC_РСТ_ПЛАТОВА",
+  "address": "344116, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, б-р Платова, д. 20/17",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_platova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_siversa",
+  "region": "Ростов-на-Дону",
+  "name": "Сиверса",
+  "system": "FRESH_GRC_РСТ_СИВЕРСА",
+  "address": "344011, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, пр-кт Сиверса, зд. 23",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_siversa.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_sokolova",
+  "region": "Ростов-на-Дону",
+  "name": "Соколова",
+  "system": "FRESH_GRC_РСТ_СОКОЛОВА",
+  "address": "344000, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, пр-кт Соколова, зд. 80/206",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_sokolova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_suvorova",
+  "region": "Ростов-на-Дону",
+  "name": "Суворова",
+  "system": "FRESH_GRC_РСТ_СУВОРОВА",
+  "address": "344010, Ростовская область, м.р-н Мясниковский, с.п. Краснокрымское, х Ленинакан, ул Суворова, зд. 1/9",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_suvorova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_timoshenko",
+  "region": "Ростов-на-Дону",
+  "name": "Тимошенко",
+  "system": "FRESH_GRC_РСТ_ТИМОШЕНКО",
+  "address": "344069, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Тимошенко, зд. 9д стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_timoshenko.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_ploschad",
+  "region": "Ростов-на-Дону",
+  "name": "Толстого",
+  "system": "FRESH_GRC_РСТ_ПЛОЩАДЬ",
+  "address": "344037, Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, пл Толстого, зд. 6а",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_ploschad.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_rst_sholohovo",
+  "region": "Ростов-на-Дону",
+  "name": "Шолохово",
+  "system": "FRESH_MAX_РСТ_ШОЛОХОВО",
+  "address": "Ростов-на-Дону, проспект Шолохова, 282А",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_rst_scherbakova",
+  "region": "Ростов-на-Дону",
+  "name": "Щербакова",
+  "system": "FRESH_GRC_РСТ_ЩЕРБАКОВА",
+  "address": "Ростовская область, г.о. город Ростов-на-Дону, г Ростов-на-Дону, ул Щербакова, зд. 104/32",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_rst_scherbakova.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_wms_smr_gudok",
+  "region": "Самара",
+  "name": "Самара",
+  "system": "FRESH_MAX_WMS_СМР_ГУДОК",
+  "address": "Самара, Красноармейская улица, 131",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_max_sochi_transportnaya",
+  "region": "Сочи",
+  "name": "Транспортная",
+  "system": "FRESH_MAX_СОЧИ_ТРАНСПОРТНАЯ",
+  "address": "Сочи, Транспортная улица, 74В",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "От остановки «Автосалон Лаура» 100 м до здания с цветными фасадами на тёмном фоне, вход сзади справа, этаж −1",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_sochi_severnaya",
+  "region": "Сочи",
+  "name": "Юных Ленинцев",
+  "system": "FRESH_GRC_СОЧИ_СЕВЕРНАЯ",
+  "address": "354000, Краснодарский край, г.о. город-курорт Сочи, г Сочи, ул Юных Ленинцев, д. 10/3",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_sochi_severnaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_tver_kalinina",
+  "region": "Тверь",
+  "name": "Тверь",
+  "system": "FRESH_MAX_ТВЕРЬ_КАЛИНИНА",
+  "address": "Тверская обл., Тверь, ул. Калинина, 13А",
+  "status": "ok",
+  "source": "документ Ozon «Баллы на Дарксторах Фреш», п. 1.6",
+  "how": "",
+  "schemes": [],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_tmn_chelyuskintsev",
+  "region": "Тюмень",
+  "name": "Володарского",
+  "system": "FRESH_GRC_ТМН_ЧЕЛЮСКИНЦЕВ",
+  "address": "625003, Тюменская область, г.о. город Тюмень, г. Тюмень, ул. Володарского, д. 14",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_tmn_chelyuskintsev.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_tmn_stavropolskaya",
+  "region": "Тюмень",
+  "name": "Московский тракт",
+  "system": "FRESH_GRC_ТМН_СТАВРОПОЛЬСКАЯ",
+  "address": "625049, Тюменская область, г.о. город Тюмень, г. Тюмень, ул. Московский тракт, д. 142 к. 4",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_tmn_stavropolskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_tmn_olimpiyskaya",
+  "region": "Тюмень",
+  "name": "Олимпийская",
+  "system": "FRESH_GRC_ТМН_ОЛИМПИЙСКАЯ",
+  "address": "625051, Тюменская область, г.о. город Тюмень, г. Тюмень, ул. Олимпийская, д. 11",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_tmn_olimpiyskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_tmn_vishnevaya",
+  "region": "Тюмень",
+  "name": "Широтная",
+  "system": "FRESH_GRC_ТМН_ВИШНЁВАЯ",
+  "address": "625028, Тюменская область, г.о. город Тюмень, г. Тюмень, ул. Широтная, д. 186в",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_tmn_vishnevaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_tmn_erve",
+  "region": "Тюмень",
+  "name": "Эрвье",
+  "system": "FRESH_GRC_ТМН_ЭРВЬЕ",
+  "address": "625022, Тюменская область, г.о. город Тюмень, г. Тюмень, ул. Ю.-Р.Г.Эрвье, д. 32 стр. 1",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_tmn_erve.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_salavata_yulaeva",
+  "region": "Челябинск",
+  "name": "250-летия Челябинска",
+  "system": "FRESH_GRC_ЧЛБ_САЛАВАТА_ЮЛАЕВА",
+  "address": "454003, Челябинская область, г.о. Челябинский, г. Челябинск, ул. 250-летия Челябинска, д. 27",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_salavata_yulaeva.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_artilleriyskaya",
+  "region": "Челябинск",
+  "name": "Артиллерийская",
+  "system": "FRESH_GRC_ЧЛБ_АРТИЛЛЕРИЙСКАЯ",
+  "address": "454007, Челябинская область, г.о. Челябинский, г. Челябинск, ул. Артиллерийская, д. 111",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_artilleriyskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_beyvelya",
+  "region": "Челябинск",
+  "name": "Бейвеля",
+  "system": "FRESH_GRC_ЧЛБ_БЕЙВЕЛЯ",
+  "address": "454030, Челябинская область, г.о. Челябинский, г. Челябинск, ул. Бейвеля, д. 49",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_beyvelya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_chaykovskogo",
+  "region": "Челябинск",
+  "name": "Братьев Кашириных",
+  "system": "FRESH_GRC_ЧЛБ_ЧАЙКОВСКОГО",
+  "address": "454016, Челябинская область, г.о. Челябинский, г. Челябинск, ул. Братьев Кашириных, д. 99А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_chaykovskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_kopeyskoe_shosse",
+  "region": "Челябинск",
+  "name": "Гагарина",
+  "system": "FRESH_GRC_ЧЛБ_КОПЕЙСКОЕ_ШОССЕ",
+  "address": "454010, Челябинская область, г.о. Челябинский, г. Челябинск, ул. Гагарина, д. 7В",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_kopeyskoe_shosse.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_kaslinskaya",
+  "region": "Челябинск",
+  "name": "Каслинская",
+  "system": "FRESH_GRC_ЧЛБ_КАСЛИНСКАЯ",
+  "address": "454008, Челябинская область, г.о. Челябинский, г. Челябинск, ул. Каслинская, д. 38А",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_kaslinskaya.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_chicherina",
+  "region": "Челябинск",
+  "name": "Комсомольский",
+  "system": "FRESH_GRC_ЧЛБ_ЧИЧЕРИНА",
+  "address": "454100, Челябинская область, г.о. Челябинский, г. Челябинск, пр-кт Комсомольский, д. 118",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_chicherina.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_ploschad_mopra",
+  "region": "Челябинск",
+  "name": "МОПРа",
+  "system": "FRESH_GRC_ЧЛБ_ПЛОЩАДЬ_МОПРА",
+  "address": "454090, Челябинская область, г.о. Челябинский, г. Челябинск, пл. МОПРа, д. 8Б",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_ploschad_mopra.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_krasnogo_urala",
+  "region": "Челябинск",
+  "name": "Победы",
+  "system": "FRESH_GRC_ЧЛБ_КРАСНОГО_УРАЛА",
+  "address": "454112, Челябинская область, г.о. Челябинский, г. Челябинск, пр-кт Победы, д. 282",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_krasnogo_urala.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_grc_chlb_hmelnitskogo",
+  "region": "Челябинск",
+  "name": "Сталеваров",
+  "system": "FRESH_GRC_ЧЛБ_ХМЕЛЬНИЦКОГО",
+  "address": "454017, Челябинская область, г.о. Челябинский, г. Челябинск, ул. Сталеваров, д. 15",
+  "status": "ok",
+  "source": "страница Ozon",
+  "how": "",
+  "schemes": [
+   "images/schemes/fresh_grc_chlb_hmelnitskogo.jpg"
+  ],
+  "show": true
+ },
+ {
+  "id": "fresh_max_wms_chlb_hudyakova",
+  "region": "Челябинск",
+  "name": "Худякова",
+  "system": "FRESH_MAX_WMS_ЧЛБ_ХУДЯКОВА",
+  "address": "Челябинск, улица Худякова, 12А",
+  "status": "app",
+  "source": "Ozon Job, проверено 16.11.2026",
+  "how": "",
+  "schemes": [],
+  "show": true
+ }
+]
