@@ -63,7 +63,9 @@ def geocode(q):
             break
         except urllib.error.HTTPError as e:
             if e.code in (401, 403):
-                sys.exit(f"Геокодер отказал ({e.code}): ключ неверный, ещё не активирован или ограничен. Проверьте ключ в кабинете Яндекса.")
+                body = e.read().decode("utf-8", "replace").replace(KEY, "***")[:500]
+                sys.exit(f"Геокодер отказал ({e.code}). Ответ Яндекса: {body}\n"
+                         f"Длина ключа в секрете: {len(KEY)} символов (у ключа Яндекса обычно 36).")
             if attempt == 3:
                 raise
             time.sleep(2 * (attempt + 1))
